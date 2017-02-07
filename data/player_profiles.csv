@@ -1,0 +1,1124 @@
+player_id,positions,height,weight,shoots,team,birthday,birthyear,birth_place,debut_date,experience
+jamesle01,"['Small Forward', 'Power Forward', 'Shooting Guard']",6-8,250,Right,Cleveland Cavaliers,December 30,1984,"Akron, Ohio","October 29, 2003",13
+paulch01,['Point Guard'],6-0,175,Right,Los Angeles Clippers,May 6,1985,"Wston-Salem, North Carola","November 1, 2005",11
+nowitdi01,"['Power Forward', 'Center']",7-0,245,Right,Dallas Mavericks,June 19,1978,"Wurzburg, Germany","February 5, 1999",18
+howardw01,"['Center', 'Power Forward']",6-11,265,Right,Atlanta Hawks,December 8,1985,"Atlanta, Georgia","November 3, 2004",12
+duncati01,"['Center', 'Power Forward']",6-11,250,Right,,April 25,1976,"St. Croix, U.S. Virg Islands","October 31, 1997",
+duranke01,"['Small Forward', 'Shooting Guard']",6-9,240,Right,Golden State Warriors,September 29,1988,"Washgton, District of Columbia","October 31, 2007",9
+wadedw01,"['Shooting Guard', 'Point Guard']",6-4,220,Right,Chicago Bulls,January 17,1982,"Chicago, Illois","October 28, 2003",13
+gasolpa01,"['Center', 'Power Forward']",7-0,250,Right,San Antonio Spurs,July 6,1980,"Barcelona, Spa","November 1, 2001",15
+bryanko01,"['Shooting Guard', 'Small Forward']",6-6,212,Right,,August 23,1978,"Philadelphia, Pennsylvania","November 3, 1996",
+boshch01,"['Center', 'Power Forward']",6-11,235,Left,Miami Heat,March 24,1984,"Dallas, Texas","October 29, 2003",13
+piercpa01,"['Small Forward', 'Shooting Guard']",6-7,235,Right,Los Angeles Clippers,October 13,1977,"Oakland, California","February 5, 1999",18
+garneke01,"['Power Forward', 'Center', 'Small Forward']",6-11,240,Right,,May 19,1976,"Mauld, South Carola","November 3, 1995",
+anthoca01,"['Small Forward', 'Power Forward']",6-8,240,Right,New York Knicks,May 29,1984,"New York, New York","October 29, 2003",13
+ginobma01,['Shooting Guard'],6-6,205,Left,San Antonio Spurs,July 28,1977,"Bahia Blanca, Argenta","October 29, 2002",14
+chandty01,"['Center', 'Power Forward']",7-1,240,Right,Phoenix Suns,October 2,1982,"Hanford, California","October 31, 2001",15
+parketo01,['Point Guard'],6-2,185,Right,San Antonio Spurs,May 17,1982,"Bruges, Belgium","October 30, 2001",15
+westda01,"['Power Forward', 'Small Forward']",6-9,250,Right,Golden State Warriors,August 29,1980,"Teaneck, New Jersey","October 29, 2003",13
+willide01,['Point Guard'],6-3,200,Right,Dallas Mavericks,June 26,1984,"Parkersburg, West Virgia","November 2, 2005",11
+iguodan01,"['Small Forward', 'Shooting Guard']",6-6,215,Right,Golden State Warriors,January 28,1984,"Sprgfield, Illois","November 3, 2004",12
+nashst01,['Point Guard'],6-3,195,Right,,February 7,1974,"Johannesburg, South Africa","November 1, 1996",
+billuch01,"['Point Guard', 'Shooting Guard']",6-3,202,Right,,September 25,1976,"Denver, Colorado","October 31, 1997",
+aldrila01,"['Power Forward', 'Center']",6-11,260,Right,San Antonio Spurs,July 19,1985,"Dallas, Texas","November 12, 2006",10
+allenra02,['Shooting Guard'],6-5,205,Right,,July 20,1975,"Merced, California","November 1, 1996",
+leeda02,"['Power Forward', 'Center', 'Small Forward']",6-9,245,Left,San Antonio Spurs,April 29,1983,"St. Louis, Missouri","November 6, 2005",11
+stoudam01,"['Power Forward', 'Center']",6-10,245,Right,,November 16,1982,"Lake Wales, Florida","October 30, 2002",
+mariosh01,"['Small Forward', 'Power Forward']",6-7,220,Right,,May 7,1978,"Waukegan, Illois","November 2, 1999",
+hardeja01,"['Shooting Guard', 'Point Guard']",6-5,220,Left,Houston Rockets,August 26,1989,"Los Angeles, California","October 28, 2009",7
+millspa01,['Power Forward'],6-8,246,Right,Atlanta Hawks,February 10,1985,"Monroe, Louisiana","November 1, 2006",10
+denglu01,"['Small Forward', 'Power Forward']",6-9,220,Right,Los Angeles Lakers,April 16,1985,"Wow, South Sudan","November 5, 2004",12
+jeffeal01,"['Center', 'Power Forward']",6-10,289,Right,Indiana Pacers,January 4,1985,"Monticello, Mississippi","November 3, 2004",12
+boozeca01,"['Power Forward', 'Center']",6-9,258,Right,,November 20,1981,"Aschaffenburg, Germany","October 29, 2002",
+cartevi01,"['Shooting Guard', 'Small Forward']",6-6,220,Right,Memphis Grizzlies,January 26,1977,"Daytona Beach, Florida","February 5, 1999",18
+martike02,"['Shooting Guard', 'Point Guard']",6-7,199,Right,,February 1,1983,"Zanesville, Ohio","November 2, 2004",
+terryja01,"['Shooting Guard', 'Point Guard']",6-2,185,Right,Milwaukee Bucks,September 15,1977,"Seattle, Washgton","November 2, 1999",17
+johnsjo02,"['Shooting Guard', 'Small Forward']",6-7,240,Right,Utah Jazz,June 29,1981,"Little Rock, Arkansas","October 30, 2001",15
+gasolma01,['Center'],7-1,255,Right,Memphis Grizzlies,January 29,1985,"Barcelona, Spa","October 29, 2008",8
+kiddja01,"['Point Guard', 'Shooting Guard']",6-4,205,Right,,March 23,1973,"San Francisco, California","November 5, 1994",
+randoza01,"['Power Forward', 'Center']",6-9,260,Left,Memphis Grizzlies,July 16,1981,"Marion, Indiana","October 30, 2001",15
+noahjo01,['Center'],6-11,230,Right,New York Knicks,February 25,1985,"New York, New York","November 6, 2007",9
+millean02,"['Point Guard', 'Shooting Guard']",6-3,200,Right,,March 19,1976,"Los Angeles, California","November 2, 1999",17
+loveke01,"['Power Forward', 'Center']",6-10,251,Right,Cleveland Cavaliers,September 7,1988,"Santa Monica, California","October 29, 2008",8
+wallage01,"['Small Forward', 'Power Forward']",6-7,215,Right,,July 23,1982,"Sylacauga, Alabama","October 30, 2001",
+horfoal01,['Center'],6-10,245,Right,Boston Celtics,June 3,1986,"Puerto Plata, Domican Republic","November 2, 2007",9
+brandel01,"['Power Forward', 'Center']",6-8,275,Right,,March 11,1979,"Cortlandt Manor, New York","November 3, 1999",
+curryst01,['Point Guard'],6-3,190,Right,Golden State Warriors,March 14,1988,"Akron, Ohio","October 28, 2009",7
+westbru01,['Point Guard'],6-3,200,Right,Oklahoma City Thunder,November 12,1988,"Long Beach, California","October 29, 2008",8
+caldejo01,"['Point Guard', 'Shooting Guard']",6-3,200,Right,Los Angeles Lakers,September 28,1981,"Villanueva de la Serena, Spa","November 2, 2005",11
+odomla01,"['Power Forward', 'Small Forward']",6-10,220,Left,,November 6,1979,"Jamaica, New York","November 2, 1999",
+battish01,"['Small Forward', 'Shooting Guard']",6-8,220,Right,,September 9,1978,"Birmgham, Michigan","November 1, 2001",
+griffbl01,['Power Forward'],6-10,251,Right,Los Angeles Clippers,March 16,1989,"Oklahoma City, Oklahoma","October 27, 2010",6
+jefferi01,['Small Forward'],6-7,233,Right,Cleveland Cavaliers,June 21,1980,"Los Angeles, California","October 30, 2001",15
+korveky01,"['Shooting Guard', 'Small Forward', 'Power Forward']",6-7,212,Right,Cleveland Cavaliers,March 17,1981,"Lakewood, California","October 28, 2003",13
+smithjo03,"['Power Forward', 'Small Forward']",6-9,225,Left,,December 5,1985,"College Park, Georgia","November 3, 2004",12
+grangda01,['Small Forward'],6-9,222,Right,,April 20,1983,"New Orleans, Louisiana","November 2, 2005",
+lowryky01,['Point Guard'],6-1,196,Right,Toronto Raptors,March 25,1986,"Philadelphia, Pennsylvania","November 1, 2006",10
+hilarne01,"['Center', 'Power Forward']",6-11,250,Right,Houston Rockets,September 13,1982,"Sao Carlos, Brazil","October 30, 2002",14
+jamisan01,"['Power Forward', 'Small Forward']",6-8,223,Right,,June 12,1976,"Shreveport, Louisiana","February 6, 1999",
+lewisra02,"['Small Forward', 'Power Forward']",6-10,215,Right,,August 8,1979,"Peville, Louisiana","February 9, 1999",
+conlemi01,['Point Guard'],6-1,175,Left,Memphis Grizzlies,October 11,1987,"Fayetteville, Arkansas","November 7, 2007",9
+rondora01,['Point Guard'],6-1,186,Right,Chicago Bulls,February 22,1986,"Louisville, Kentucky","November 1, 2006",10
+diawbo01,"['Power Forward', 'Shooting Guard']",6-8,250,Right,Utah Jazz,April 16,1982,"Cormeille-en-Parisis, France","October 29, 2003",13
+princta01,['Small Forward'],6-9,212,Left,,February 28,1980,"Compton, California","October 30, 2002",14
+dunlemi02,"['Small Forward', 'Shooting Guard', 'Power Forward']",6-9,230,Right,Atlanta Hawks,September 15,1980,"Fort Worth, Texas","October 30, 2002",14
+bogutan01,"['Center', 'Power Forward']",7-0,260,Right,Dallas Mavericks,November 28,1984,"Melbourne, Australia","November 1, 2005",11
+jordade01,['Center'],6-11,265,Left,Los Angeles Clippers,July 21,1988,"Houston, Texas","November 1, 2008",8
+harride01,"['Point Guard', 'Shooting Guard']",6-3,192,Right,Dallas Mavericks,February 27,1983,"Milwaukee, Wiscons","November 2, 2004",12
+crawfja01,"['Shooting Guard', 'Point Guard']",6-5,200,Right,Los Angeles Clippers,March 20,1980,"Seattle, Washgton","October 31, 2000",16
+turkohe01,"['Small Forward', 'Power Forward']",6-10,220,Right,,March 19,1979,"Istanbul, Turkey","November 1, 2000",
+varejan01,"['Center', 'Power Forward']",6-10,273,Right,Golden State Warriors,September 28,1982,"Santa Teresa, Brazil","November 4, 2004",12
+ibakase01,['Power Forward'],6-10,235,Right,Orlando Magic,September 18,1989,"Brazzaville, Republic of the Congo","October 30, 2009",7
+nelsoja01,['Point Guard'],6-0,190,Right,Denver Nuggets,February 9,1982,"Chester, Pennsylvania","November 3, 2004",12
+hillge01,['Point Guard'],6-3,188,Right,Utah Jazz,May 4,1986,"Indianapolis, Indiana","November 4, 2008",8
+kirilan01,"['Small Forward', 'Power Forward']",6-9,220,Right,,February 18,1981,"Izhevsk, Russia","October 30, 2001",
+gayru01,['Small Forward'],6-8,230,Right,Sacramento Kings,August 17,1986,"Brooklyn, New York","November 1, 2006",10
+richaja01,"['Shooting Guard', 'Small Forward']",6-6,220,Right,,January 20,1981,"Sagaw, Michigan","October 31, 2001",
+scolalu01,['Power Forward'],6-9,240,Right,Brooklyn Nets,April 30,1980,"Buenos Aires, Argenta","October 30, 2007",9
+willima02,"['Small Forward', 'Power Forward']",6-9,237,Right,Charlotte Hornets,June 19,1986,"Bremerton, Washgton","November 2, 2005",11
+cambyma01,"['Center', 'Power Forward']",6-11,220,Right,,March 22,1974,"Hartford, Connecticut","November 1, 1996",
+gortama01,"['Center', 'Power Forward']",6-11,240,Right,Washington Wizards,February 17,1984,"Lodz, Poland","March 1, 2008",9
+hinriki01,"['Point Guard', 'Shooting Guard']",6-4,190,Right,,January 2,1981,"Sioux City, Iowa","November 7, 2003",13
+dalemsa01,['Center'],6-11,255,Right,,May 10,1981,"Port-Au-Prce, Haiti","December 4, 2001",13
+okafoem01,"['Center', 'Power Forward']",6-10,252,Right,,September 28,1982,"Houston, Texas","November 4, 2004",
+collini01,"['Power Forward', 'Center']",6-10,255,Right,Oklahoma City Thunder,October 26,1980,"Orange City, Iowa","November 3, 2004",12
+johnsam01,"['Power Forward', 'Small Forward']",6-9,240,Right,Boston Celtics,May 1,1987,"Los Angeles, California","January 24, 2006",11
+arizatr01,"['Small Forward', 'Shooting Guard']",6-8,215,Right,Houston Rockets,June 30,1985,"Miami, Florida","November 3, 2004",12
+lopezbr01,['Center'],7-0,275,Right,Brooklyn Nets,April 1,1988,"North Hollywood, California","October 29, 2008",8
+smithjr01,"['Shooting Guard', 'Small Forward']",6-6,225,Right,Cleveland Cavaliers,September 9,1985,"Freehold, New Jersey","November 3, 2004",12
+youngth01,['Power Forward'],6-8,221,Left,Indiana Pacers,June 21,1988,"New Orleans, Louisiana","November 7, 2007",9
+butleca01,"['Small Forward', 'Shooting Guard']",6-7,228,Right,,March 13,1980,"Race, Wiscons","October 30, 2002",14
+lawsoty01,['Point Guard'],5-11,195,Right,Sacramento Kings,November 3,1987,"Clton, Maryland","October 28, 2009",7
+okurme01,"['Center', 'Power Forward']",6-11,249,Right,,May 26,1979,"Yalova, Turkey","November 1, 2002",
+artesro01,['Small Forward'],6-6,260,Right,Los Angeles Lakers,November 13,1979,"Queensbridge, New York","November 3, 1999",16
+batumni01,"['Small Forward', 'Shooting Guard']",6-8,200,Right,Charlotte Hornets,December 14,1988,"Lisieux, France","October 28, 2008",8
+bynuman01,['Center'],7-0,285,Right,,October 27,1987,"Plasboro, New Jersey","November 2, 2005",
+roybr01,['Shooting Guard'],6-6,215,Right,,July 23,1984,"Seattle, Washgton","November 1, 2006",
+barnema02,"['Small Forward', 'Power Forward']",6-7,226,Right,Sacramento Kings,March 9,1980,"Santa Clara, California","January 19, 2004",13
+willilo02,"['Point Guard', 'Shooting Guard']",6-1,175,Right,Los Angeles Lakers,October 27,1986,"Memphis, Tennessee","November 2, 2005",11
+ellismo01,['Shooting Guard'],6-3,185,Right,Indiana Pacers,October 26,1985,"Jackson, Mississippi","November 12, 2005",11
+willima01,"['Point Guard', 'Shooting Guard']",6-1,198,Right,,December 19,1982,"Jackson, Mississippi","November 1, 2003",
+bassbr01,"['Power Forward', 'Center']",6-8,250,Right,Los Angeles Clippers,April 30,1985,"Baton Rouge, Louisiana","November 1, 2005",11
+hasleud01,"['Power Forward', 'Center']",6-8,235,Right,Miami Heat,June 9,1980,"Miami, Florida","October 28, 2003",13
+murphtr01,['Power Forward'],6-11,245,Left,,May 2,1980,"Morristown, New Jersey","October 31, 2001",
+matthwe02,"['Shooting Guard', 'Small Forward']",6-5,220,Right,Dallas Mavericks,October 14,1986,"San Antonio, Texas","October 28, 2009",7
+millemi01,"['Small Forward', 'Shooting Guard']",6-8,218,Right,Denver Nuggets,February 19,1980,"Mitchell, South Dakota","October 31, 2000",16
+mingya01,['Center'],7-6,310,Right,,September 12,1980,"Shanghai, Cha","October 30, 2002",
+redicjj01,"['Shooting Guard', 'Point Guard']",6-4,190,Right,Los Angeles Clippers,June 24,1984,"Cookeville, Tennessee","November 25, 2006",10
+jackja01,"['Point Guard', 'Shooting Guard']",6-3,200,Right,,October 28,1983,"Fort Washgton, Maryland","November 2, 2005",11
+fishede01,"['Point Guard', 'Shooting Guard']",6-1,200,Left,,August 9,1974,"Little Rock, Arkansas","November 1, 1996",
+landrca01,['Power Forward'],6-9,248,Right,,September 19,1983,"Milwaukee, Wiscons","November 24, 2007",9
+wallabe01,"['Center', 'Power Forward']",6-9,240,Right,,September 10,1974,"White Hall, Alabama","November 1, 1996",
+bonnema01,"['Power Forward', 'Center']",6-10,235,Right,,April 5,1980,"Concord, New Hampshire","November 3, 2004",
+anderry01,['Power Forward'],6-10,240,Right,Houston Rockets,May 6,1988,"Sacramento, California","October 29, 2008",8
+dudleja01,"['Small Forward', 'Power Forward', 'Shooting Guard']",6-7,225,Right,Phoenix Suns,July 10,1985,"San Diego, California","November 2, 2007",9
+pachuza01,['Center'],6-11,270,Right,Golden State Warriors,February 10,1984,"Tbilisi, Georgia","November 5, 2003",13
+hamilri01,"['Shooting Guard', 'Small Forward']",6-6,185,Right,,February 14,1978,"Coatesville, Pennsylvania","November 2, 1999",
+feltora01,"['Point Guard', 'Shooting Guard']",6-1,205,Right,Los Angeles Clippers,June 26,1984,"Marion, South Carola","November 2, 2005",11
+ilgauzy01,['Center'],7-3,238,Right,,June 5,1975,"Kaunas, Lithuania","October 31, 1997",
+monrogr01,"['Center', 'Power Forward']",6-11,265,Left,Milwaukee Bucks,June 4,1990,"New Orleans, Louisiana","October 30, 2010",6
+iversal01,"['Shooting Guard', 'Point Guard']",6-0,165,Right,,June 7,1975,"Hampton, Virgia","November 1, 1996",
+wallara01,"['Power Forward', 'Center']",6-10,225,Right,,September 17,1974,"Philadelphia, Pennsylvania","November 3, 1995",
+dragigo01,"['Point Guard', 'Shooting Guard']",6-3,190,Left,Miami Heat,May 6,1986,"Ljubljana, Slovenia","October 29, 2008",8
+hibbero01,['Center'],7-2,270,Right,Milwaukee Bucks,December 11,1986,"Queens, New York","October 29, 2008",8
+goodedr01,"['Power Forward', 'Center', 'Small Forward']",6-10,250,Right,,September 24,1981,"Oakland, California","October 30, 2002",14
+bibbymi01,['Point Guard'],6-1,190,Right,,May 13,1978,"Cherry Hill, New Jersey","February 7, 1999",
+barbole01,"['Shooting Guard', 'Point Guard']",6-3,194,Right,Phoenix Suns,November 28,1982,"San Paulo, Brazil","November 12, 2003",13
+rosede01,['Point Guard'],6-3,190,Right,New York Knicks,October 4,1988,"Chicago, Illois","October 28, 2008",7
+fryech01,"['Power Forward', 'Center']",6-11,255,Right,Cleveland Cavaliers,May 17,1983,"White Plas, New York","November 4, 2005",10
+maggeco01,"['Small Forward', 'Shooting Guard', 'Power Forward']",6-6,218,Right,,November 12,1979,"Melrose Park, Illois","November 2, 1999",
+millebr01,"['Center', 'Power Forward']",6-11,244,Right,,April 12,1976,"Fort Wayne, Indiana","February 5, 1999",
+davisan02,"['Power Forward', 'Center']",6-10,253,Right,New Orleans Pelicans,March 11,1993,"Chicago, Illois","October 31, 2012",4
+brewero02,"['Shooting Guard', 'Small Forward']",6-7,220,Right,,March 20,1985,"Portland, Oregon","November 1, 2006",8
+allento01,"['Shooting Guard', 'Point Guard']",6-4,213,Right,Memphis Grizzlies,January 11,1982,"Chicago, Illois","November 3, 2004",12
+anderch01,"['Center', 'Power Forward']",6-10,245,Right,Cleveland Cavaliers,July 7,1978,"Long Beach, California","November 23, 2001",14
+gordobe01,['Shooting Guard'],6-3,200,Right,,April 4,1983,"London, United Kgdom","November 5, 2004",
+salmojo01,"['Shooting Guard', 'Small Forward', 'Point Guard']",6-7,210,Right,,December 12,1979,"Philadelphia, Pennsylvania","October 29, 2002",
+biedran01,['Center'],6-11,240,Left,,April 2,1986,"Riga, Latvia","November 5, 2004",
+ridnolu01,"['Point Guard', 'Shooting Guard']",6-2,175,Right,,February 13,1981,"Coeur d'Alene, Idaho","October 30, 2003",
+hillgr01,"['Small Forward', 'Shooting Guard']",6-8,225,Right,,October 5,1972,"Dallas, Texas","November 4, 1994",
+ilyaser01,['Power Forward'],6-10,235,Right,Philadelphia 76ers,May 15,1987,"Eskisehir, Turkey","November 1, 2006",8
+afflaar01,"['Shooting Guard', 'Small Forward']",6-5,210,Right,Sacramento Kings,October 15,1985,"Los Angeles, California","November 1, 2007",9
+mcdyean01,"['Power Forward', 'Center']",6-9,220,Right,,September 7,1974,"Quitman, Mississippi","November 3, 1995",
+dampier01,['Center'],6-11,265,Right,,July 14,1975,"Jackson, Mississippi","November 6, 1996",
+greenje02,"['Small Forward', 'Power Forward']",6-9,235,Right,Orlando Magic,August 28,1986,"Cheverly, Maryland","October 31, 2007",8
+hayesch01,"['Center', 'Power Forward']",6-6,240,Right,,June 11,1983,"San Leandro, California","January 18, 2006",11
+georgpa01,"['Small Forward', 'Shooting Guard']",6-9,220,Right,Indiana Pacers,May 2,1990,"Palmdale, California","October 27, 2010",6
+gibsota01,['Power Forward'],6-9,225,Right,Chicago Bulls,June 24,1985,"Brooklyn, New York","October 29, 2009",7
+lopezro01,['Center'],7-0,255,Right,Chicago Bulls,April 1,1988,"North Hollywood, California","October 29, 2008",8
+howarjo01,['Small Forward'],6-7,210,Right,,April 28,1980,"Wston-Salem, North Carola","October 28, 2003",
+leonaka01,['Small Forward'],6-7,230,Right,San Antonio Spurs,June 29,1991,"Los Angeles, California","December 26, 2011",5
+arenagi01,['Point Guard'],6-3,191,Right,,January 6,1982,"Los Angeles, California","November 4, 2001",
+chalmma01,['Point Guard'],6-2,190,Right,,May 19,1986,"Anchorage, Alaska","October 29, 2008",8
+gallida01,"['Small Forward', 'Shooting Guard', 'Power Forward']",6-10,225,Right,Denver Nuggets,August 8,1988,"Sant'Angelo Lodigiano, Italy","October 29, 2008",7
+robinna01,['Point Guard'],5-9,180,Right,,May 31,1984,"Seattle, Washgton","November 2, 2005",11
+davisba01,['Point Guard'],6-3,209,Right,,April 13,1979,"Los Angeles, California","November 2, 1999",
+reddmi01,"['Shooting Guard', 'Small Forward']",6-6,220,Left,,August 24,1979,"Columbus, Ohio","November 2, 2000",
+humphkr01,"['Power Forward', 'Small Forward']",6-9,235,Right,Atlanta Hawks,February 6,1985,"Mneapolis, Mnesota","November 3, 2004",12
+teaguje01,['Point Guard'],6-2,186,Right,Indiana Pacers,June 10,1988,"Indianapolis, Indiana","October 28, 2009",7
+augusdj01,['Point Guard'],6-0,183,Right,Orlando Magic,November 10,1987,"New Orleans, Louisiana","October 30, 2008",8
+perkike01,['Center'],6-10,270,Right,,November 10,1984,"Nederland, Texas","December 13, 2003",13
+blakest01,['Point Guard'],6-3,172,Right,,February 26,1980,"Hollywood, Florida","October 29, 2003",13
+sefolth01,"['Shooting Guard', 'Small Forward']",6-7,220,Right,Atlanta Hawks,May 2,1984,"Vevey, Switzerland","October 31, 2006",10
+haywobr01,['Center'],7-0,268,Right,,November 27,1979,"New York, New York","November 27, 2001",
+stuckro01,"['Point Guard', 'Shooting Guard']",6-5,210,Right,Indiana Pacers,April 21,1986,"Seattle, Washgton","December 21, 2007",9
+jennibr01,['Point Guard'],6-1,170,Left,New York Knicks,September 23,1989,"Compton, California","October 30, 2009",7
+udrihbe01,"['Point Guard', 'Shooting Guard']",6-3,205,Left,Detroit Pistons,July 5,1982,"Celje, Slovenia","November 3, 2004",12
+harrial01,"['Power Forward', 'Center', 'Small Forward']",6-9,230,Right,,February 17,1980,"Orange, New Jersey","February 5, 1999",
+butleji01,"['Shooting Guard', 'Small Forward']",6-7,220,Right,Chicago Bulls,September 14,1989,"Houston, Texas","January 1, 2012",5
+collida01,['Point Guard'],6-0,175,Right,Sacramento Kings,August 23,1987,"Rancho Cucamonga, California","October 28, 2009",7
+irvinky01,['Point Guard'],6-3,193,Right,Cleveland Cavaliers,March 23,1992,"Melbourne, Australia","December 26, 2011",5
+leeco01,['Shooting Guard'],6-5,200,Right,New York Knicks,October 3,1985,"Indianapolis, Indiana","November 3, 2008",8
+lillada01,['Point Guard'],6-3,195,Right,Portland Trail Blazers,July 15,1990,"Oakland, California","October 31, 2012",4
+wrighdo01,['Small Forward'],6-9,205,Right,,December 2,1985,"Los Angeles, California","February 5, 2005",11
+walljo01,['Point Guard'],6-4,195,Right,Washington Wizards,September 6,1990,"Raleigh, North Carola","October 28, 2010",6
+derozde01,['Shooting Guard'],6-7,221,Right,Toronto Raptors,August 7,1989,"Compton, California","October 28, 2009",7
+onealsh01,['Center'],7-1,325,Right,,March 6,1972,"Newark, New Jersey","November 6, 1992",
+mcgratr01,"['Shooting Guard', 'Small Forward']",6-8,210,Right,,May 24,1979,"Bartow, Florida","October 31, 1997",
+stojape01,['Small Forward'],6-9,220,Right,,June 9,1977,"Slavoska Pozega , Croatia","February 5, 1999",
+onealje01,"['Center', 'Power Forward']",6-11,226,Right,,October 13,1978,"Columbia, South Carola","December 5, 1996",
+fosteje01,['Center'],6-11,236,Right,,January 16,1977,"San Antonio, Texas","November 4, 1999",
+webstma02,['Small Forward'],6-7,230,Right,,December 4,1986,"Edmonds, Washgton","November 4, 2005",10
+farieke01,['Power Forward'],6-8,228,Right,Denver Nuggets,November 19,1989,"Newark, New Jersey","December 28, 2011",5
+bellra01,['Shooting Guard'],6-5,204,Right,,September 19,1976,"St. Croix, U.S. Virg Islands","April 6, 2001",
+parkean01,"['Shooting Guard', 'Small Forward']",6-6,215,Right,,June 19,1975,"Naperville, Illois","December 7, 1997",
+haywago01,['Small Forward'],6-8,226,Right,Utah Jazz,March 23,1990,"Indianapolis, Indiana","October 27, 2010",6
+sessira01,"['Point Guard', 'Shooting Guard']",6-3,190,Right,Charlotte Hornets,April 11,1986,"Myrtle Beach, South Carola","March 9, 2008",9
+favorde01,['Power Forward'],6-10,265,Right,Utah Jazz,July 15,1991,"Atlanta, Georgia","October 27, 2010",6
+couside01,['Center'],6-11,270,Right,Sacramento Kings,August 13,1990,"Mobile, Alabama","October 27, 2010",6
+parsoch01,['Small Forward'],6-10,230,Right,Memphis Grizzlies,October 25,1988,"Casselberry, Florida","December 29, 2011",5
+westde01,"['Point Guard', 'Shooting Guard']",6-4,180,Left,,July 26,1983,"Washgton, District of Columbia","November 26, 2004",
+splitti01,"['Center', 'Power Forward']",6-11,245,Right,Atlanta Hawks,January 1,1985,"Joville, Brazil","November 1, 2010",6
+poseyja01,"['Small Forward', 'Shooting Guard', 'Power Forward']",6-8,215,Right,,January 13,1977,"Cleveland, Ohio","November 2, 1999",
+thomais02,['Point Guard'],5-9,185,Left,Boston Celtics,February 7,1989,"Tacoma, Washgton","December 26, 2011",5
+jacksst02,"['Small Forward', 'Shooting Guard', 'Power Forward']",6-8,218,Right,,April 5,1978,"Houston, Texas","October 31, 2000",
+foyera01,"['Shooting Guard', 'Point Guard']",6-4,213,Right,Brooklyn Nets,September 24,1983,"Newark, New Jersey","November 1, 2006",10
+greenda02,['Shooting Guard'],6-6,215,Right,San Antonio Spurs,June 22,1987,"North Babylon, New York","November 12, 2009",7
+watsocj01,['Point Guard'],6-2,175,Right,Orlando Magic,April 17,1984,"Las Vegas, Nevada","January 9, 2008",9
+wrighbr03,"['Power Forward', 'Center']",6-10,210,Left,Memphis Grizzlies,October 5,1987,"Nashville, Tennessee","November 6, 2007",8
+kamanch01,['Center'],7-0,265,Right,,April 28,1982,"Wyomg, Michigan","October 30, 2003",13
+villach01,['Power Forward'],6-11,232,Right,,August 24,1984,"Queens, New York","November 2, 2005",11
+wilcoch01,"['Center', 'Power Forward']",6-10,221,Right,,September 3,1982,"Raleigh, North Carola","October 30, 2002",
+thomaku01,"['Power Forward', 'Center']",6-9,230,Right,,October 4,1972,"Dallas, Texas","November 4, 1995",
+davised01,"['Power Forward', 'Center']",6-10,240,Left,Portland Trail Blazers,June 5,1989,"Washgton, District of Columbia","December 1, 2010",6
+delfica01,"['Small Forward', 'Shooting Guard']",6-6,230,Right,,August 29,1982,"Santa Fe, Argenta","November 2, 2004",
+martike01,"['Power Forward', 'Center']",6-9,234,Right,,December 30,1977,"Sagaw, Michigan","October 31, 2000",
+thompja02,"['Power Forward', 'Center']",6-11,250,Right,,July 21,1986,"Camden, New Jersey","October 29, 2008",8
+drumman01,['Center'],6-11,279,Right,Detroit Pistons,August 10,1993,"Mount Vernon, New York","October 31, 2012",4
+mayooj01,['Shooting Guard'],6-5,210,Right,,November 5,1987,"Huntgton, West Virgia","October 29, 2008",8
+evansty01,"['Shooting Guard', 'Small Forward']",6-6,220,Right,New Orleans Pelicans,September 19,1989,"Chester, Pennsylvania","October 28, 2009",7
+thompkl01,['Shooting Guard'],6-7,215,Right,Golden State Warriors,February 8,1990,"Los Angeles, California","December 25, 2011",5
+childjo01,"['Small Forward', 'Shooting Guard']",6-8,210,Right,,June 20,1983,"Harbor City, California","November 3, 2004",8
+hicksjj01,"['Center', 'Power Forward']",6-9,242,Right,,September 4,1988,"Atlanta, Georgia","October 30, 2008",8
+duhonch01,['Point Guard'],6-1,185,Right,,August 31,1982,"Mamou, Louisiana","November 5, 2004",
+jonesja02,"['Small Forward', 'Shooting Guard']",6-8,218,Right,Cleveland Cavaliers,October 4,1980,"Miami, Florida","December 26, 2003",13
+meeksjo01,['Shooting Guard'],6-4,210,Right,Orlando Magic,August 21,1987,"Norcross, Georgia","November 3, 2009",7
+warriha01,['Power Forward'],6-9,219,Right,,July 8,1982,"Philadelphia, Pennsylvania","November 2, 2005",
+gordoer01,"['Shooting Guard', 'Point Guard']",6-4,215,Right,Houston Rockets,December 25,1988,"Indianapolis, Indiana","October 29, 2008",8
+maxieja01,"['Power Forward', 'Center']",6-7,260,Right,,February 18,1983,"Chicago, Illois","November 2, 2005",
+morroan01,['Shooting Guard'],6-5,210,Right,Oklahoma City Thunder,September 27,1985,"Charlotte, North Carola","November 9, 2008",8
+chandwi01,"['Small Forward', 'Shooting Guard', 'Power Forward']",6-8,225,Right,Denver Nuggets,May 10,1987,"Benton Harbor, Michigan","November 13, 2007",8
+alstora01,['Point Guard'],6-2,171,Right,,July 24,1976,"New York, New York","February 17, 2000",
+mohamna01,['Center'],6-10,221,Right,,September 5,1977,"Chicago, Illois","February 5, 1999",18
+belinma01,"['Shooting Guard', 'Small Forward', 'Point Guard']",6-5,210,Right,Charlotte Hornets,March 25,1986,"Bologna, Italy","October 30, 2007",9
+evansma01,"['Shooting Guard', 'Small Forward']",6-5,220,Right,,November 8,1978,"Wichita, Kansas","December 19, 2001",
+gomesry01,"['Small Forward', 'Power Forward']",6-7,250,Right,,September 1,1982,"Waterbury, Connecticut","November 2, 2005",8
+holidjr01,['Point Guard'],6-4,205,Right,New Orleans Pelicans,June 12,1990,"Chatsworth, California","October 30, 2009",7
+nocioan01,"['Small Forward', 'Power Forward']",6-7,225,Right,,November 30,1979,"Santa Fe, Argenta","November 5, 2004",
+blatcan01,"['Power Forward', 'Center']",6-11,235,Right,,August 22,1986,"Syracuse, New York","November 11, 2005",
+finlemi01,"['Small Forward', 'Shooting Guard']",6-7,215,Right,,March 6,1973,"Melrose Park, Illois","November 3, 1995",
+hansbty01,['Power Forward'],6-9,250,Right,,November 3,1985,"Poplar Bluff, Missouri","November 6, 2009",7
+milescj01,"['Shooting Guard', 'Small Forward', 'Point Guard']",6-6,225,Left,Indiana Pacers,April 18,1987,"Dallas, Texas","November 14, 2005",11
+speigma01,"['Center', 'Power Forward']",6-10,255,Right,Los Angeles Clippers,August 4,1987,"St. Petersburg, Florida","October 31, 2008",8
+turiaro01,['Center'],6-10,249,Right,,January 13,1983,"Le Robert, Martique","February 8, 2006",
+blairde01,"['Power Forward', 'Center']",6-7,270,Right,,April 22,1989,"Pittsburgh, Pennsylvania","October 28, 2009",7
+boganke01,"['Shooting Guard', 'Small Forward']",6-5,215,Right,,May 12,1980,"Alexandria, Virgia","November 7, 2003",
+hawessp01,"['Center', 'Power Forward']",7-1,245,Right,Milwaukee Bucks,April 28,1988,"Seattle, Washgton","November 10, 2007",9
+thomptr01,"['Power Forward', 'Center']",6-9,238,Left Right,Cleveland Cavaliers,March 13,1991,"Toronto, Canada","December 26, 2011",5
+valanjo01,['Center'],7-0,265,Right,Toronto Raptors,May 6,1992,"Utena, Lithuania","October 31, 2012",4
+vucevni01,['Center'],7-0,260,Right,Orlando Magic,October 24,1990,"Morges, Switzerland","December 28, 2011",5
+livinsh01,"['Point Guard', 'Shooting Guard']",6-7,192,Right,Golden State Warriors,September 11,1985,"Peoria, Illois","November 3, 2004",11
+pekovni01,['Center'],6-11,307,Right,Minnesota Timberwolves,January 3,1986,"Bijelo Polje, Montenegro","October 27, 2010",6
+bargnan01,"['Power Forward', 'Center']",7-0,245,Right,,October 26,1985,"Rome, Italy","November 1, 2006",10
+davisgl01,"['Power Forward', 'Center']",6-9,289,Right,,January 1,1986,"Baton Rouge, Louisiana","November 2, 2007",8
+evansre01,['Power Forward'],6-8,245,Right,,May 18,1980,"Pensacola, Florida","October 30, 2002",
+mcgeeja01,['Center'],7-0,270,Right,Golden State Warriors,January 19,1988,"Flt, Michigan","October 29, 2008",8
+mbahalu01,"['Power Forward', 'Small Forward']",6-8,230,Right,Los Angeles Clippers,September 9,1986,"Yaounde, Cameroon","October 28, 2008",8
+asikom01,['Center'],7-0,255,Right,New Orleans Pelicans,July 4,1986,"Bursa, Turkey","October 27, 2010",6
+garcifr01,"['Small Forward', 'Shooting Guard']",6-7,195,Right,,December 31,1981,"Santo Domgo, Domican Republic","November 1, 2005",
+pattepa01,['Power Forward'],6-9,230,Right,Toronto Raptors,March 14,1989,"Washgton, District of Columbia","December 15, 2010",6
+brookaa01,['Point Guard'],6-0,161,Right,Indiana Pacers,January 14,1985,"Seattle, Washgton","November 17, 2007",8
+thornma01,['Shooting Guard'],6-4,205,Right,Washington Wizards,June 5,1987,"Baton Rouge, Louisiana","November 6, 2009",7
+koufoko01,['Center'],7-0,265,Right,Sacramento Kings,February 24,1989,"Canton, Ohio","November 1, 2008",8
+mcrobjo01,"['Power Forward', 'Center']",6-10,240,Left,Miami Heat,February 28,1987,"Indianapolis, Indiana","November 19, 2007",9
+krstine01,"['Center', 'Power Forward']",7-0,240,Right,,July 25,1983,"Kraljevo, Serbia","November 3, 2004",
+carrode01,"['Small Forward', 'Power Forward']",6-8,215,Right,Toronto Raptors,July 27,1986,"Birmgham, Alabama","October 28, 2009",7
+szczewa02,['Small Forward'],6-7,244,Right,,March 5,1977,"Madrid, Spa","November 5, 1999",
+bowenbr01,['Small Forward'],6-7,185,Right,,June 14,1971,"Merced, California","March 16, 1997",
+breweco01,"['Small Forward', 'Shooting Guard']",6-9,186,Right,Houston Rockets,March 5,1986,"Portland, Tennessee","November 2, 2007",9
+fordtj01,['Point Guard'],6-0,165,Right,,March 24,1983,"Houston, Texas","October 31, 2003",
+butlera01,"['Small Forward', 'Shooting Guard']",6-7,215,Right,,May 23,1979,"Philadelphia, Pennsylvania","October 30, 2002",13
+pietrmi01,"['Small Forward', 'Shooting Guard', 'Point Guard']",6-6,215,Right,,February 7,1982,"Les Abymes, Guadeloupe","October 29, 2003",
+gibsoda01,"['Point Guard', 'Shooting Guard']",6-2,190,Right,,February 27,1986,"Houston, Texas","November 15, 2006",
+smithcr01,['Power Forward'],6-7,250,Right,,November 10,1983,"Inglewood, California","November 1, 2006",
+willija02,['Point Guard'],6-1,190,Right,,November 18,1975,"Belle, West Virgia","February 5, 1999",
+booketr01,['Power Forward'],6-8,228,Left,Brooklyn Nets,November 25,1987,"Newberry, South Carola","October 28, 2010",6
+linje01,"['Point Guard', 'Shooting Guard']",6-3,200,Right,Brooklyn Nets,August 23,1988,"Palo Alto, California","October 29, 2010",6
+przybjo01,['Center'],7-1,255,Right,,October 10,1979,"Monticello, Mnesota","November 4, 2000",
+daniean01,"['Point Guard', 'Shooting Guard']",6-4,195,Right,,March 19,1975,"Columbus, Ohio","October 31, 1997",
+houseed01,"['Shooting Guard', 'Point Guard']",6-1,180,Right,,May 14,1978,"Berkeley, California","November 1, 2000",
+cunnida01,"['Power Forward', 'Small Forward']",6-8,230,Right,New Orleans Pelicans,April 22,1987,"Clton, Maryland","November 8, 2009",7
+bayleje01,"['Point Guard', 'Shooting Guard']",6-3,200,Right,Philadelphia 76ers,August 20,1988,"Phoenix, Arizona","October 28, 2008",8
+bledser01,['Point Guard'],6-1,190,Right,Phoenix Suns,December 9,1989,"Birmgham, Alabama","October 27, 2010",6
+outlatr01,"['Small Forward', 'Power Forward']",6-9,210,Right,,September 18,1984,"Starkville, Mississippi","November 15, 2003",11
+doolike01,"['Point Guard', 'Shooting Guard']",6-3,196,Right,,May 8,1980,"Ft. Lauderdale, Florida","October 31, 2000",
+barrybr01,"['Shooting Guard', 'Small Forward']",6-6,185,Right,,December 31,1971,"Hempstead, New York","November 3, 1995",
+richaqu01,"['Small Forward', 'Shooting Guard']",6-6,223,Right,,April 13,1980,"Chicago, Illois","October 31, 2000",
+bareajo01,"['Point Guard', 'Shooting Guard']",6-0,185,Right,Dallas Mavericks,June 26,1984,"Mayaguez, Puerto Rico","November 4, 2006",10
+headlu01,"['Shooting Guard', 'Point Guard']",6-3,185,Right,,November 26,1982,"Chicago, Illois","November 5, 2005",
+nestera01,['Center'],7-0,248,Right,,May 30,1976,"Ljubljana, Slovenia","May 4, 1999",
+walkeke02,['Point Guard'],6-1,172,Right,Charlotte Hornets,May 8,1990,"Bronx, New York","December 26, 2011",5
+anthojo01,"['Center', 'Power Forward']",6-9,245,Left,San Antonio Spurs,August 9,1982,"Montreal, Canada","November 27, 2007",9
+jerebjo01,['Power Forward'],6-10,231,Right,Boston Celtics,March 2,1987,"Kna, Sweden","October 31, 2009",6
+vujacsa01,"['Shooting Guard', 'Point Guard']",6-7,195,Right,New York Knicks,March 8,1984,"Maribor, Slovenia","November 3, 2004",9
+novakst01,"['Small Forward', 'Power Forward']",6-10,225,Right,,June 13,1983,"Libertyville, Illois","November 1, 2006",10
+moonja01,['Small Forward'],6-8,205,Right,,June 13,1980,"Goodwater, Alabama","November 6, 2007",
+fernaru01,['Shooting Guard'],6-6,185,Right,,April 4,1985,"Palma de Mallorca, Spa","October 28, 2008",
+hendege02,['Shooting Guard'],6-5,215,Right,Philadelphia 76ers,December 9,1987,"Caldwell, New Jersey","October 28, 2009",7
+morrima02,['Power Forward'],6-10,245,Right,Washington Wizards,September 2,1989,"Philadelphia, Pennsylvania","December 26, 2011",5
+tuckepj01,"['Small Forward', 'Shooting Guard']",6-6,245,Right,Phoenix Suns,May 5,1985,"Raleigh, North Carola","November 1, 2006",5
+mahinia01,['Center'],6-11,250,Right,Washington Wizards,November 5,1986,"Rouen, France","October 30, 2007",8
+petermo01,"['Shooting Guard', 'Small Forward']",6-7,218,Left,,August 26,1977,"Flt, Michigan","October 31, 2000",
+tollian01,"['Power Forward', 'Small Forward']",6-8,240,Right,Sacramento Kings,June 1,1985,"Sprgfield, Missouri","November 7, 2008",8
+radmavl01,"['Power Forward', 'Small Forward']",6-10,227,Right,,November 19,1980,"Trebje Srpska-Bih, Bosnia and Herzegova","October 30, 2001",
+youngni01,['Shooting Guard'],6-7,210,Right,Los Angeles Lakers,June 1,1985,"Los Angeles, California","October 31, 2007",9
+greendr01,"['Power Forward', 'Small Forward']",6-7,230,Right,Golden State Warriors,March 4,1990,"Sagaw, Michigan","October 31, 2012",4
+kleizli01,"['Small Forward', 'Power Forward']",6-8,245,Right,,January 3,1985,"Kaunas, Lithuania","November 4, 2005",7
+obertfa01,"['Center', 'Power Forward']",6-10,245,Right,,March 21,1975,"Las Varillas, Argenta","November 1, 2005",
+arroyca01,"['Point Guard', 'Shooting Guard']",6-2,202,Right,,July 30,1979,"Fajardo, Puerto Rico","October 30, 2001",
+farmajo01,['Point Guard'],6-2,180,Right,,November 30,1986,"Los Angeles, California","October 31, 2006",9
+harprma01,"['Small Forward', 'Shooting Guard']",6-7,231,Right,,May 31,1976,"Ccnati, Ohio","February 5, 1999",
+mooremi01,"['Center', 'Power Forward']",6-11,225,Right,,November 4,1975,"Orangeburg, South Carola","February 16, 1999",
+thomaty01,"['Power Forward', 'Center']",6-9,215,Right,,August 17,1986,"Baton Rouge, Louisiana","October 31, 2006",8
+vasqugr01,"['Point Guard', 'Shooting Guard']",6-6,217,Right,,January 16,1987,"Caracas, Venezuela","October 30, 2010",6
+greenwi01,['Shooting Guard'],6-4,200,Right,,July 28,1981,"Detroit, Michigan","October 28, 2003",
+masonro01,"['Shooting Guard', 'Point Guard', 'Small Forward']",6-5,200,Right,,September 10,1980,"Washgton, District of Columbia","February 21, 2003",
+najered01,"['Power Forward', 'Small Forward']",6-8,240,Right,,July 11,1976,"Meoqui, Mexico","October 31, 2000",
+barneha02,"['Small Forward', 'Power Forward']",6-8,210,Right,Dallas Mavericks,May 30,1992,"Ames, Iowa","October 31, 2012",4
+bellch01,['Shooting Guard'],6-3,200,Right,,March 12,1979,"Flt, Michigan","October 30, 2001",
+kanteen01,['Center'],6-11,245,Right,Oklahoma City Thunder,May 20,1992,"Zurich, Switzerland","December 27, 2011",5
+smithjo02,"['Power Forward', 'Center', 'Small Forward']",6-10,225,Right,,July 26,1975,"Norfolk, Virgia","November 3, 1995",
+howarju01,"['Power Forward', 'Small Forward', 'Center']",6-9,240,Right,,February 7,1973,"Chicago, Illois","November 19, 1994",
+mozgoti01,['Center'],7-1,275,Right,Los Angeles Lakers,July 16,1986,"St. Petersburg, Russia","October 27, 2010",6
+budinch01,['Small Forward'],6-7,209,Right,,May 22,1988,"Encitas, California","October 27, 2009",7
+hilljo01,"['Center', 'Power Forward']",6-10,235,Right,Minnesota Timberwolves,July 27,1987,"Atlanta, Georgia","October 28, 2009",7
+jacksre01,['Point Guard'],6-3,208,Right,Detroit Pistons,April 16,1990,"Pordenone, Italy","December 31, 2011",5
+diopde01,"['Center', 'Power Forward']",7-0,300,Right,,January 30,1982,"Dakar, Senegal","October 30, 2001",
+davisri01,"['Shooting Guard', 'Small Forward']",6-6,195,Right,,September 23,1979,"Las Vegas, Nevada","February 5, 1999",
+greenge01,"['Shooting Guard', 'Small Forward']",6-7,205,Right,Boston Celtics,January 26,1986,"Houston, Texas","February 3, 2006",9
+harrito02,"['Power Forward', 'Small Forward']",6-9,235,Right,Detroit Pistons,July 15,1992,"Islip, New York","January 7, 2012",5
+cassesa01,['Point Guard'],6-3,185,Right,,November 18,1969,"Baltimore, Maryland","November 5, 1993",
+casspom01,"['Small Forward', 'Power Forward']",6-9,225,Right,Sacramento Kings,June 22,1988,"Holon, Israel","October 28, 2009",7
+powele01,"['Center', 'Power Forward', 'Small Forward']",6-8,240,Right,,January 22,1984,"Berkeley, California","November 13, 2006",
+brownkw01,"['Center', 'Power Forward']",6-11,270,Right,,March 10,1982,"Charleston, South Carola","October 30, 2001",
+moblecu01,"['Shooting Guard', 'Small Forward', 'Point Guard']",6-4,190,Left,,September 1,1975,"Philadelphia, Pennsylvania","February 6, 1999",
+stevede01,"['Shooting Guard', 'Small Forward']",6-5,210,Right,,April 3,1981,"Fresno, California","October 31, 2000",
+aminual01,['Small Forward'],6-9,220,Right,Portland Trail Blazers,September 21,1990,"Atlanta, Georgia","October 27, 2010",6
+johnsan02,"['Point Guard', 'Shooting Guard']",6-3,190,Right,,October 2,1974,"Charleston, South Carola","November 1, 1997",
+stephla01,"['Shooting Guard', 'Small Forward']",6-5,230,Right,,September 5,1990,"Brooklyn, New York","February 27, 2011",6
+waltolu01,"['Small Forward', 'Power Forward']",6-8,235,Right,,March 28,1980,"San Diego, California","October 28, 2003",
+jonesed02,"['Shooting Guard', 'Small Forward']",6-6,190,Right,,October 20,1971,"Pompano Beach, Florida","November 4, 1994",
+rubiori01,['Point Guard'],6-4,194,Right,Minnesota Timberwolves,October 21,1990,"Barcelona, Spa","December 26, 2011",5
+watsoea01,['Point Guard'],6-1,195,Right,,June 12,1979,"Kansas City, Kansas","October 30, 2001",
+wilkida02,"['Small Forward', 'Shooting Guard']",6-6,225,Right,,January 11,1980,"Washgton, North Carola","November 3, 2004",9
+jamesmi01,['Point Guard'],6-2,188,Right,,June 23,1975,"Copaigue, New York","December 23, 2001",
+zellety01,['Center'],7-0,253,Right,Boston Celtics,January 17,1990,"Visalia, California","October 30, 2012",4
+joneste01,['Power Forward'],6-9,252,Left,New Orleans Pelicans,January 9,1992,"Portland, Oregon","November 10, 2012",4
+daniema01,"['Shooting Guard', 'Small Forward']",6-6,200,Right,,January 7,1981,"Jasper, Florida","October 28, 2003",
+bealbr01,['Shooting Guard'],6-5,207,Right,Washington Wizards,June 28,1993,"St. Louis, Missouri","October 30, 2012",4
+boykiea01,"['Point Guard', 'Shooting Guard']",5-5,135,Right,,June 2,1976,"Cleveland, Ohio","February 7, 1999",
+mutomdi01,['Center'],7-2,245,Right,,June 25,1966,"Kshasa, Democratic Republic of the Congo","November 1, 1991",
+turneev01,"['Small Forward', 'Shooting Guard']",6-7,220,Right,Portland Trail Blazers,October 27,1988,"Chicago, Illois","October 27, 2010",6
+johnsja01,"['Small Forward', 'Power Forward']",6-9,250,Right,Miami Heat,February 20,1987,"Cheyenne, Wyomg","October 30, 2009",7
+sullija01,['Power Forward'],6-9,260,Right,Toronto Raptors,March 4,1992,"Columbus, Ohio","October 30, 2012",4
+fieldla01,"['Small Forward', 'Shooting Guard']",6-7,210,Right,,June 27,1988,"Long Beach, California","October 27, 2010",
+marbust01,['Point Guard'],6-2,180,Right,,February 20,1977,"Brooklyn, New York","November 1, 1996",
+battito01,"['Center', 'Power Forward']",6-11,230,Right,,February 11,1976,"Dallas, Texas","October 31, 1997",
+middlkh01,"['Shooting Guard', 'Small Forward']",6-8,234,Right,Milwaukee Bucks,August 12,1991,"Charleston, South Carola","November 10, 2012",4
+sandela01,"['Center', 'Power Forward']",6-11,235,Right,,November 21,1988,"Fort Pierce, Florida","October 27, 2010",
+beaslmi01,"['Small Forward', 'Power Forward']",6-9,235,Left,Milwaukee Bucks,January 9,1989,"Frederick, Maryland","October 29, 2008",8
+jacksbo01,"['Point Guard', 'Shooting Guard']",6-1,185,Right,,March 13,1973,"East Spencer, North Carola","October 31, 1997",
+carroma01,['Shooting Guard'],6-6,212,Right,,August 28,1980,"Pittsburgh, Pennsylvania","November 7, 2003",
+millspa02,['Point Guard'],6-0,185,Right,San Antonio Spurs,August 11,1988,"Canberra, Australia","January 4, 2010",7
+stackje01,"['Shooting Guard', 'Small Forward']",6-6,218,Right,,November 5,1974,"Kston, North Carola","November 3, 1995",
+beverpa01,"['Point Guard', 'Shooting Guard']",6-1,185,Right,Houston Rockets,July 12,1988,"Chicago, Illois","January 15, 2013",4
+hughela01,"['Shooting Guard', 'Point Guard', 'Small Forward']",6-5,184,Right,,January 23,1979,"St. Louis, Missouri","February 5, 1999",
+willish02,"['Power Forward', 'Center']",6-9,250,Right,,October 21,1983,"Oklahoma City, Oklahoma","November 1, 2006",
+morrima03,"['Small Forward', 'Power Forward']",6-9,235,Right,Detroit Pistons,September 2,1989,"Philadelphia, Pennsylvania","December 26, 2011",5
+simmobo01,"['Small Forward', 'Shooting Guard', 'Power Forward']",6-7,210,Right,,June 2,1980,"Chicago, Illois","November 1, 2001",
+smithja02,"['Center', 'Power Forward']",7-0,245,Right,Washington Wizards,March 2,1986,"Greeley, Colorado","October 31, 2007",8
+goberru01,['Center'],7-1,245,Right,Utah Jazz,June 26,1992,"Sat-Quent, France","October 30, 2013",3
+jeffrja01,"['Power Forward', 'Small Forward']",6-11,230,Right,,November 25,1981,"Bloomgton, Indiana","October 30, 2002",
+knighbr03,"['Point Guard', 'Shooting Guard']",6-3,189,Right,Phoenix Suns,December 2,1991,"Miami, Florida","December 26, 2011",5
+knighbr01,['Point Guard'],5-10,173,Right,,November 8,1975,"Livgston, New Jersey","October 31, 1997",
+willide02,"['Power Forward', 'Small Forward']",6-8,240,Right,Miami Heat,May 25,1991,"Bellflower, California","December 26, 2011",5
+holliry01,"['Center', 'Power Forward']",7-0,240,Right,,October 10,1984,"Pasadena, California","January 17, 2007",10
+nealga01,['Shooting Guard'],6-4,210,Right,,October 3,1984,"Baltimore, Maryland","October 27, 2010",6
+plumlma01,['Center'],6-11,245,Right,Portland Trail Blazers,March 5,1990,"Fort Wayne, Indiana","November 3, 2013",3
+azubuke01,"['Shooting Guard', 'Small Forward']",6-5,220,Right,,December 16,1983,"London, United Kgdom","January 2, 2007",
+biyombi01,['Center'],6-9,255,Right,Orlando Magic,August 28,1992,"Lubumbashi, Democratic Republic of the Congo","December 26, 2011",5
+brownsh01,['Shooting Guard'],6-4,205,Right,,November 29,1985,"Maywood, Illois","November 7, 2006",9
+douglto01,"['Point Guard', 'Shooting Guard']",6-2,195,Right,Memphis Grizzlies,March 16,1986,"Jonesboro, Georgia","October 28, 2009",7
+jonesda02,"['Small Forward', 'Shooting Guard']",6-6,225,Right,,December 27,1980,"Trenton, New Jersey","November 21, 2003",12
+boonejo01,"['Power Forward', 'Center']",6-10,237,Right,,November 21,1984,"Mount Airy, Maryland","December 2, 2006",
+curryed01,"['Center', 'Power Forward']",7-0,295,Right,,December 5,1982,"Harvey, Illois","October 31, 2001",
+marshdo01,"['Power Forward', 'Small Forward']",6-9,218,Right,,May 18,1973,"Readg, Pennsylvania","November 4, 1994",
+mournal01,"['Center', 'Power Forward']",6-10,240,Right,,February 8,1970,"Chesapeake, Virgia","November 13, 1992",
+pondequ01,"['Small Forward', 'Shooting Guard']",6-7,220,Right,New Orleans Pelicans,March 10,1988,"Fresno, California","November 6, 2010",5
+abdursh01,"['Power Forward', 'Small Forward', 'Center']",6-9,225,Right,,December 11,1976,"Marietta, Georgia","November 1, 1996",
+arthuda01,"['Power Forward', 'Small Forward']",6-9,235,Right,Denver Nuggets,March 25,1988,"Dallas, Texas","October 29, 2008",7
+kiddgmi01,['Small Forward'],6-7,232,Right,Charlotte Hornets,September 26,1993,"Philadelphia, Pennsylvania","November 2, 2012",4
+songada01,"['Center', 'Power Forward']",6-9,248,Right,,February 14,1978,"Marijampole, Lithuania","October 29, 2003",
+prigipa01,['Point Guard'],6-3,185,Right,,May 17,1977,"Rio Tercero, Argenta","November 2, 2012",4
+thomati01,"['Small Forward', 'Power Forward']",6-10,230,Right,,February 26,1977,"Paterson, New Jersey","October 31, 1997",
+atkinch01,"['Point Guard', 'Shooting Guard']",5-11,160,Right,,August 14,1974,"Orlando, Florida","November 2, 1999",
+rushbr01,"['Shooting Guard', 'Small Forward']",6-6,220,Right,Minnesota Timberwolves,July 7,1985,"Kansas City, Missouri","October 29, 2008",8
+udokaim01,"['Small Forward', 'Shooting Guard', 'Power Forward']",6-6,215,Right,,August 9,1977,"Portland, Oregon","January 14, 2004",
+hensojo01,"['Center', 'Power Forward']",6-11,229,Right,Milwaukee Bucks,December 28,1990,"Greensboro, North Carola","November 7, 2012",4
+jonesda01,"['Point Guard', 'Shooting Guard']",6-3,185,Right,,August 25,1976,"Galveston, Texas","February 15, 1999",
+singlky01,['Small Forward'],6-8,228,Right,Oklahoma City Thunder,May 4,1988,"Medford, Oregon","October 31, 2012",4
+kaponja01,"['Small Forward', 'Shooting Guard']",6-8,213,Right,,February 4,1981,"Long Beach, California","October 30, 2003",
+allenla01,"['Power Forward', 'Center']",6-9,260,Right,Indiana Pacers,February 4,1989,"Morrisville, Pennsylvania","January 7, 2012",5
+elsonfr01,['Center'],7-0,235,Right,,February 28,1976,"Rotterdam, Netherlands","October 29, 2003",
+josepco01,"['Shooting Guard', 'Point Guard']",6-3,193,Right,Toronto Raptors,August 20,1991,"Toronto, Canada","December 26, 2011",5
+singlja01,"['Power Forward', 'Small Forward']",6-8,216,Right,,July 20,1981,"Chicago, Illois","November 2, 2005",
+hayesja01,"['Small Forward', 'Shooting Guard']",6-7,220,Right,,August 9,1981,"Atlanta, Georgia","October 29, 2003",
+brownde02,['Shooting Guard'],6-5,220,Right,,December 30,1978,"Salt Lake City, Utah","November 4, 2002",
+geeal01,"['Small Forward', 'Shooting Guard']",6-6,225,Right,,May 29,1987,"Riviera Beach, Florida","March 11, 2010",7
+shumpim01,"['Shooting Guard', 'Point Guard']",6-5,220,Right,Cleveland Cavaliers,June 26,1990,"Oak Park, Illois","December 25, 2011",5
+webbech01,"['Power Forward', 'Center']",6-9,245,Right,,March 1,1973,"Detroit, Michigan","November 9, 1993",
+crowdja01,['Small Forward'],6-6,235,Right,Boston Celtics,July 6,1990,"Villa Rica, Georgia","October 30, 2012",4
+grahajo01,['Small Forward'],6-7,225,Right,,June 11,1982,"Wilmgton, Delaware","November 2, 2005",
+jonesfr01,"['Shooting Guard', 'Small Forward']",6-4,210,Right,,March 11,1979,"Malvern, Arkansas","October 30, 2002",
+evansje01,"['Small Forward', 'Power Forward']",6-9,200,Right,,October 24,1987,"Crossett, Arkansas","October 27, 2010",6
+horryro01,"['Power Forward', 'Small Forward']",6-9,220,Right,,August 25,1970,"Andalusia, Alabama","November 6, 1992",
+parkesm01,['Point Guard'],6-4,190,Right,,June 1,1981,"New York, New York","October 29, 2002",
+patteru01,"['Small Forward', 'Shooting Guard']",6-5,224,Right,,July 31,1975,"Cleveland, Ohio","February 5, 1999",
+rosste01,"['Small Forward', 'Shooting Guard']",6-7,206,Right,Toronto Raptors,February 5,1991,"Portland, Oregon","October 31, 2012",4
+antetgi01,"['Shooting Guard', 'Point Guard', 'Small Forward']",6-11,222,Right,Milwaukee Bucks,December 6,1994,"Athens, Greece","October 30, 2013",3
+burksal01,['Shooting Guard'],6-6,214,Right,Utah Jazz,July 20,1991,"Grandview, Missouri","December 27, 2011",5
+milicda01,"['Center', 'Power Forward']",7-0,250,Left,,June 20,1985,"Novi Sad, Serbia","October 31, 2003",
+georgde01,['Small Forward'],6-8,220,Right,,August 29,1977,"Mneapolis, Mnesota","November 2, 1999",
+luety01,['Point Guard'],6-0,175,Right,,May 3,1977,"Mexico, Missouri","February 11, 1999",
+murraro01,"['Shooting Guard', 'Point Guard']",6-4,190,Right,,July 29,1979,"Philadelphia, Pennsylvania","November 2, 2002",
+odengr01,['Center'],7-0,250,Right,,January 22,1988,"Buffalo, New York","October 28, 2008",
+balkmre01,"['Small Forward', 'Power Forward']",6-8,208,Right,,July 14,1984,"Staten Island, New York","November 1, 2006",6
+cartean01,['Point Guard'],6-1,190,Right,,June 16,1975,"Milwaukee, Wiscons","November 2, 1999",
+brownpj01,"['Power Forward', 'Center']",6-11,225,Right,,October 14,1969,"Detroit, Michigan","November 5, 1993",
+dienggo01,"['Center', 'Power Forward']",6-11,241,Right,Minnesota Timberwolves,January 18,1990,"Kebemer, Senegal","November 1, 2013",3
+adamsst01,['Center'],7-0,255,Right,Oklahoma City Thunder,July 20,1993,"Rotorua, New Zealand","October 30, 2013",3
+amundlo01,['Power Forward'],6-9,220,Right,,December 7,1982,"Ventura, California","February 24, 2007",10
+anderal01,"['Small Forward', 'Shooting Guard']",6-6,220,Right,Los Angeles Clippers,October 16,1982,"Mneapolis, Mnesota","November 12, 2005",7
+bynumwi01,"['Point Guard', 'Shooting Guard']",6-0,185,Right,,January 4,1983,"Chicago, Illois","March 19, 2006",8
+cookbr01,"['Power Forward', 'Center']",6-9,234,Right,,December 4,1980,"Lcoln, Illois","December 28, 2003",
+thomake01,['Power Forward'],6-7,261,Right,,July 25,1977,"Atlanta, Georgia","November 2, 1999",
+francst01,"['Point Guard', 'Shooting Guard']",6-3,195,Right,,February 21,1977,"Silver Sprg, Maryland","November 2, 1999",
+motiedo01,['Power Forward'],7-0,222,Left,New Orleans Pelicans,September 20,1990,"Kaunas, Lithuania","November 10, 2012",4
+willish03,"['Small Forward', 'Power Forward', 'Shooting Guard']",6-9,225,Right,,February 16,1986,"Memphis, Tennessee","December 11, 2006",7
+bradlav01,"['Point Guard', 'Shooting Guard']",6-2,180,Right,Boston Celtics,November 26,1990,"Tacoma, Washgton","November 22, 2010",6
+croshau01,['Power Forward'],6-9,235,Right,,May 1,1975,"Los Angeles, California","November 20, 1997",
+ellinwa01,['Shooting Guard'],6-4,200,Right,Miami Heat,October 29,1987,"Wynnewood, Pennsylvania","October 28, 2009",7
+dioguik01,['Power Forward'],6-8,250,Right,,September 11,1983,"Buffalo, New York","November 23, 2005",6
+olynyke01,['Center'],7-0,238,Right,Boston Celtics,April 19,1991,"Toronto, Canada","October 30, 2013",3
+plumlmi01,['Center'],6-11,249,Right,Charlotte Hornets,September 1,1988,"Fort Wayne, Indiana","November 5, 2012",4
+zelleco01,"['Center', 'Power Forward']",7-0,240,Right,Charlotte Hornets,October 5,1992,"Washgton, Indiana","October 30, 2013",3
+buckngr01,"['Shooting Guard', 'Small Forward']",6-4,210,Right,,September 16,1976,"Hopksville, Kentucky","January 6, 2000",
+nachbbo01,"['Small Forward', 'Power Forward']",6-9,221,Right,,July 3,1980,"Slovenj Gradec, Slovenia","October 30, 2002",
+collija03,['Center'],6-11,255,Right,,December 2,1978,"Northridge, California","November 23, 2001",
+carnero01,"['Small Forward', 'Shooting Guard']",6-7,205,Right,,April 15,1984,"Memphis, Tennessee","November 1, 2006",
+grayaa01,['Center'],7-0,270,Right,,December 7,1984,"Tarzana, California","November 2, 2007",
+wellsbo01,"['Shooting Guard', 'Small Forward']",6-5,210,Right,,September 28,1976,"Muncie, Indiana","February 8, 1999",
+willire02,['Small Forward'],6-6,205,Left,,September 14,1986,"Prce George, Virgia","March 2, 2010",6
+pendeje02,"['Center', 'Power Forward']",6-9,240,Right,,April 29,1987,"Ontario, California","December 22, 2009",6
+roberbr01,['Point Guard'],6-1,173,Right,Charlotte Hornets,December 3,1985,"Toledo, Ohio","October 31, 2012",4
+scottmi01,['Power Forward'],6-8,237,Right,Atlanta Hawks,July 16,1988,"Chesapeake, Virgia","November 11, 2012",4
+thornal01,"['Small Forward', 'Power Forward']",6-8,220,Right,,December 7,1983,"Perry, Georgia","November 2, 2007",
+stiemgr01,['Center'],6-11,260,Right,,September 26,1985,"Randolph, Wiscons","December 28, 2011",4
+jaricma01,"['Point Guard', 'Shooting Guard', 'Small Forward']",6-7,198,Right,,October 12,1978,"Belgrade, Serbia","October 30, 2002",
+leoname01,"['Center', 'Power Forward']",7-1,245,Right,Portland Trail Blazers,February 27,1992,"Woodbridge, Virgia","October 31, 2012",4
+rossqu01,"['Shooting Guard', 'Small Forward']",6-6,195,Right,,April 30,1981,"Dallas, Texas","November 5, 2004",
+randoan01,"['Power Forward', 'Center']",6-10,205,Left,,July 15,1989,"Worzbach, Germany","November 3, 2008",6
+thomaet01,"['Center', 'Power Forward']",6-9,256,Right,,April 1,1978,"Harlem, New York","November 1, 2001",
+gadzuda01,"['Center', 'Power Forward']",6-11,240,Right,,February 2,1978,"Den Haag, Netherlands","October 30, 2002",
+hassetr01,"['Shooting Guard', 'Small Forward']",6-5,200,Right,,March 4,1979,"Clarksville, Tennessee","October 31, 2001",
+mirotni01,['Power Forward'],6-10,220,Right,Chicago Bulls,February 11,1991,"Podgorica, Montenegro","October 29, 2014",2
+ratlith01,"['Center', 'Power Forward']",6-10,225,Right,,April 17,1973,"Demopolis, Alabama","November 3, 1995",
+udohek01,"['Center', 'Power Forward']",6-10,240,Right,,May 20,1987,"Edmond, Oklahoma","December 10, 2010",5
+dienetr01,['Point Guard'],6-1,175,Right,,March 1,1982,"Fond du Lac, Wiscons","December 2, 2005",
+johnswe01,"['Small Forward', 'Shooting Guard']",6-7,215,Right,Los Angeles Clippers,July 11,1987,"Corsicana, Texas","October 27, 2010",6
+ajincal01,"['Center', 'Power Forward']",7-2,248,Right,New Orleans Pelicans,May 6,1988,"Sat-Etienne, France","October 30, 2008",6
+harklma01,['Small Forward'],6-9,215,Right,Portland Trail Blazers,May 11,1993,"Queens, New York","November 7, 2012",4
+huntest01,"['Center', 'Power Forward']",7-0,220,Right,,October 31,1981,"Chicago, Illois","October 30, 2001",
+oquinky01,"['Power Forward', 'Center']",6-10,250,Right,New York Knicks,March 26,1990,"Flushg, New York","November 2, 2012",4
+petrojo01,['Center'],7-0,247,Right,,January 27,1986,"Paris, France","November 2, 2005",8
+brezepr01,['Center'],7-2,252,Right,,October 2,1979,"Postojna, Slovenia","November 4, 2001",
+douglch01,"['Shooting Guard', 'Small Forward']",6-7,200,Right,,January 8,1987,"Detroit, Michigan","October 29, 2008",6
+foylead01,['Center'],6-10,250,Right,,March 9,1975,"Canouan, Sat Vcent and the Grenades","October 31, 1997",
+paytoga01,['Point Guard'],6-4,180,Right,,July 23,1968,"Oakland, California","November 3, 1990",
+whiteha01,['Center'],7-0,265,Right,Miami Heat,June 13,1989,"Gastonia, North Carola","October 27, 2010",4
+quinnch01,"['Point Guard', 'Shooting Guard']",6-2,185,Right,,September 27,1983,"New Orleans, Louisiana","October 31, 2006",
+smithgr02,"['Center', 'Power Forward']",6-10,250,Right,,January 8,1991,"Vallejo, California","February 19, 2012",5
+telfase01,['Point Guard'],6-0,165,Right,,June 9,1985,"Brooklyn, New York","November 5, 2004",10
+crawfjo02,['Shooting Guard'],6-4,195,Right,,October 23,1988,"Detroit, Michigan","October 27, 2010",4
+pavloal01,"['Shooting Guard', 'Small Forward']",6-8,220,Right,,November 15,1983,"Bar, Montenegro","October 29, 2003",10
+youngsa01,"['Small Forward', 'Shooting Guard']",6-6,220,Right,,June 1,1985,"Washgton, District of Columbia","October 28, 2009",4
+ayongu01,"['Center', 'Power Forward']",6-10,250,Right,,April 1,1985,"Tepic, Mexico","January 1, 2012",3
+blounma01,['Center'],7-0,230,Right,,November 30,1975,"Dobbs Ferry, New York","November 1, 2000",
+lambje01,"['Shooting Guard', 'Small Forward']",6-5,185,Right,Charlotte Hornets,May 30,1992,"Henrico Valley, Virgia","November 2, 2012",4
+serapke01,"['Center', 'Power Forward']",6-9,285,Right,Indiana Pacers,December 7,1989,"Cayenne, French Guiana","November 16, 2010",6
+jonesso01,"['Power Forward', 'Center']",6-10,230,Right,,July 16,1984,"Eustis, Florida","November 1, 2006",8
+lafrera01,"['Center', 'Power Forward']",6-11,240,Left,,May 29,1976,"Hampton, Iowa","February 5, 1999",
+leuerjo01,"['Power Forward', 'Center']",6-10,228,Right,Detroit Pistons,May 14,1989,"Long Lake, Mnesota","December 26, 2011",5
+vaughja01,"['Point Guard', 'Shooting Guard']",6-1,190,Right,,February 11,1975,"Los Angeles, California","October 31, 1997",
+walkebi01,"['Small Forward', 'Shooting Guard']",6-6,220,Right,,October 9,1987,"Huntgton, West Virgia","November 7, 2008",5
+cookda02,"['Shooting Guard', 'Small Forward']",6-5,205,Right,,April 28,1987,"Dayton, Ohio","November 2, 2007",
+aldrico01,['Center'],6-11,250,Right,Minnesota Timberwolves,October 31,1988,"Burnsville, Mnesota","October 31, 2010",6
+anderde01,"['Shooting Guard', 'Small Forward', 'Point Guard']",6-5,194,Right,,July 18,1974,"Louisville, Kentucky","October 31, 1997",
+beaubro01,['Point Guard'],6-0,170,Right,,February 24,1988,"Pote-a-Pitre, Guadeloupe","October 30, 2009",4
+macksh01,"['Point Guard', 'Shooting Guard']",6-3,203,Right,Utah Jazz,April 22,1990,"Lexgton, Kentucky","December 26, 2011",5
+magloja01,['Center'],6-11,259,Right,,May 21,1978,"Toronto, Canada","October 31, 2000",
+oladivi01,"['Shooting Guard', 'Point Guard']",6-4,210,Right,Oklahoma City Thunder,May 4,1992,"Silver Sprg, Maryland","October 29, 2013",3
+swiftst01,"['Power Forward', 'Center']",6-9,225,Right,,November 21,1979,"Shreveport, Louisiana","October 31, 2000",
+thabeha01,['Center'],7-3,263,Right,,February 16,1987,"Dar es Salaam, United Republic of Tanzania","October 28, 2009",
+priceaj01,"['Point Guard', 'Shooting Guard']",6-2,181,Right,,October 7,1986,"Orange, New Jersey","October 30, 2009",
+snower01,"['Point Guard', 'Shooting Guard']",6-3,190,Right,,April 24,1973,"Canton, Ohio","November 3, 1995",
+snydeki01,"['Shooting Guard', 'Small Forward', 'Power Forward']",6-6,225,Right,,June 5,1983,"Los Angeles, California","November 3, 2004",
+baynear01,['Center'],6-10,260,Right,Detroit Pistons,December 9,1986,"Gisborne, New Zealand","January 25, 2013",4
+caldwke01,['Shooting Guard'],6-5,205,Right,Detroit Pistons,February 18,1993,"Thomaston, Georgia","October 30, 2013",3
+cardibr01,"['Power Forward', 'Small Forward']",6-8,245,Right,,May 2,1977,"Tolono, Illois","December 9, 2000",
+pargoja01,"['Point Guard', 'Shooting Guard']",6-1,175,Right,,October 22,1979,"Chicago, Illois","October 29, 2002",
+thompho01,"['Shooting Guard', 'Small Forward']",6-8,206,Right,,April 3,1991,"Pasadena, California","November 1, 2013",3
+tinslja01,['Point Guard'],6-3,195,Right,,February 28,1978,"Brooklyn, New York","October 30, 2001",
+brownde04,['Small Forward'],6-7,225,Left,,September 8,1987,"Oakland, California","October 28, 2009",
+dayeau01,['Small Forward'],6-11,220,Right,,June 5,1988,"Irve, California","October 30, 2009",6
+jasiksa01,"['Point Guard', 'Shooting Guard']",6-4,195,Right,,March 5,1976,"Kaunas, Lithuania","November 2, 2005",
+johnsiv01,['Power Forward'],6-8,230,Right,,April 10,1984,"San Antonio, Texas","December 27, 2011",2
+adrieje01,['Power Forward'],6-7,245,Right,,February 10,1986,"Brookle, Massachusetts","October 27, 2010",
+fournev01,"['Shooting Guard', 'Small Forward']",6-7,205,Right,Orlando Magic,October 29,1992,"Sat-Maurice, France","October 31, 2012",4
+iveyro01,"['Shooting Guard', 'Point Guard']",6-3,200,Right,,December 20,1981,"Harlem, New York","November 3, 2004",
+wrighlo02,['Center'],6-11,225,Right,,November 4,1975,"Memphis, Tennessee","November 5, 1996",
+acyqu01,"['Power Forward', 'Small Forward']",6-7,240,Right,Brooklyn Nets,October 6,1990,"Tyler, Texas","November 7, 2012",4
+griffad01,"['Shooting Guard', 'Small Forward']",6-5,217,Left,,July 4,1974,"Wichita, Kansas","November 2, 1999",
+simshe01,['Center'],6-10,248,Right,,March 27,1990,"Baltimore, Maryland","March 4, 2013",4
+herrmwa01,"['Power Forward', 'Small Forward']",6-9,225,Right,,June 26,1979,"Venado Tuerto, Argenta","November 10, 2006",
+mcguido01,"['Small Forward', 'Shooting Guard', 'Power Forward']",6-9,220,Right,,October 20,1985,"San Diego, California","October 31, 2007",6
+teletmi01,"['Power Forward', 'Small Forward']",6-9,242,Right,Milwaukee Bucks,September 18,1985,"Mostar, Bosnia and Herzegova","November 5, 2012",4
+covinro01,['Small Forward'],6-9,215,Right,Philadelphia 76ers,December 14,1990,"Bellwood, Illois","January 18, 2014",3
+dellama01,"['Shooting Guard', 'Point Guard']",6-4,198,Right,Milwaukee Bucks,September 8,1990,"Maryborough, Australia","November 2, 2013",3
+mihmch01,"['Center', 'Power Forward']",7-0,265,Right,,July 16,1979,"Milwaukee, Wiscons","October 31, 2000",
+noelne01,[''],6-11,228,,Philadelphia 76ers,April 10,1994,"Malden, Massachusetts","October 29, 2014",2
+snellto01,"['Small Forward', 'Shooting Guard']",6-7,200,Right,Milwaukee Bucks,November 10,1991,"Riverside, California","October 29, 2013",3
+veselja01,['Power Forward'],6-11,240,Right,,April 24,1990,"Ostrava, Czech Republic","January 8, 2012",3
+armsthi01,"['Center', 'Power Forward']",6-11,235,Right,,November 11,1984,"Peekskill, New York","November 1, 2006",
+banksma01,['Point Guard'],6-2,200,Right,,November 19,1981,"Las Vegas, Nevada","October 29, 2003",
+hardati02,['Shooting Guard'],6-6,205,Right,Atlanta Hawks,March 16,1992,"Miami, Florida","October 30, 2013",3
+hillso01,['Small Forward'],6-7,225,Right,New Orleans Pelicans,March 18,1991,"Los Angeles, California","October 29, 2013",3
+wesleda01,"['Shooting Guard', 'Point Guard']",6-0,190,Right,,November 14,1970,"San Antonio, Texas","December 7, 1993",
+wrighju01,['Small Forward'],6-8,225,Right,,May 20,1987,"Chicago, Illois","November 2, 2007",
+skinnbr01,"['Power Forward', 'Center']",6-9,255,Right,,May 19,1976,"Temple, Texas","February 27, 1999",
+whitedj01,"['Power Forward', 'Center']",6-9,251,Right,,August 31,1986,"Tuscaloosa, Alabama","April 5, 2009",6
+brockjo01,"['Power Forward', 'Center']",6-7,255,Right,,March 20,1987,"Snohomish, Washgton","October 28, 2009",
+martica01,['Small Forward'],6-7,220,Right,,November 20,1984,"Crockett, Texas","January 30, 2009",7
+ollieke01,"['Point Guard', 'Shooting Guard']",6-4,195,Right,,December 27,1972,"Dallas, Texas","October 31, 1997",
+waitedi01,['Shooting Guard'],6-4,225,Right,Miami Heat,December 10,1991,"Philadelphia, Pennsylvania","October 30, 2012",4
+anderja01,"['Shooting Guard', 'Small Forward']",6-6,213,Right,,March 25,1989,"El Dorado, Arkansas","October 27, 2010",5
+collija04,"['Center', 'Power Forward']",7-0,255,Right,,December 2,1978,"Northridge, California","October 31, 2001",
+lenal01,['Center'],7-1,260,Right,Phoenix Suns,June 16,1993,"Antratsit, Ukrae","October 30, 2013",3
+mccanra01,['Shooting Guard'],6-4,207,Right,,September 25,1984,"Asheville, North Carola","November 2, 2005",
+rodrise01,['Point Guard'],6-3,176,Right,Philadelphia 76ers,June 12,1986,"Tenerife, Spa","November 3, 2006",4
+allenma01,['Power Forward'],6-10,255,Right,,June 27,1978,"Willgboro, New Jersey","November 30, 2001",
+armstda01,['Point Guard'],6-0,170,Right,,June 22,1968,"Gastonia, North Carola","April 11, 1995",
+scalabr01,"['Power Forward', 'Center']",6-9,241,Right,,March 18,1978,"Long Beach, California","January 31, 2002",
+walkean02,['Power Forward'],6-8,224,Right,,August 12,1976,"Chicago, Illois","November 1, 1996",
+babbilu01,"['Small Forward', 'Power Forward']",6-9,225,Right,Miami Heat,June 20,1989,"Ccnati, Ohio","November 1, 2010",6
+lucasjo02,['Point Guard'],5-11,166,Right,,November 21,1982,"Washgton, District of Columbia","December 31, 2005",7
+burketr01,['Point Guard'],6-1,191,Right,Washington Wizards,November 12,1992,"Columbus, Ohio","November 20, 2013",3
+maynoer01,"['Point Guard', 'Shooting Guard']",6-3,175,Right,,June 11,1987,"Raeford, North Carola","October 28, 2009",5
+mclembe01,['Shooting Guard'],6-5,195,Right,Sacramento Kings,February 11,1993,"St. Louis, Missouri","October 30, 2013",3
+wafervo01,"['Shooting Guard', 'Small Forward']",6-5,210,Right,,July 21,1985,"Homer, Louisiana","November 24, 2005",
+coleno01,['Point Guard'],6-2,175,Right,,October 13,1988,"Dayton, Ohio","December 25, 2011",5
+ezelife01,['Center'],6-11,255,Right,Portland Trail Blazers,October 21,1989,"Ben City, Nigeria","October 31, 2012",3
+freeljo01,"['Center', 'Power Forward']",6-10,250,Right,,February 7,1987,"Farnham, United Kgdom","November 2, 2012",3
+blackta01,['Center'],6-9,250,Right,Los Angeles Lakers,November 22,1991,"Memphis, Tennessee","October 28, 2014",2
+jianlyi01,['Power Forward'],7-0,240,Right,,October 27,1987,"He Shan, Cha","October 31, 2007",
+robincl02,"['Power Forward', 'Small Forward', 'Center']",6-10,225,Right,,December 16,1966,"Buffalo, New York","November 3, 1989",
+robinth01,['Power Forward'],6-10,237,Right,Los Angeles Lakers,March 17,1991,"Washgton, District of Columbia","October 31, 2012",4
+shvedal01,['Shooting Guard'],6-6,190,Right,,December 16,1988,"Belgorod, Russia","November 2, 2012",3
+tsakaja01,['Center'],7-2,285,Right,,June 10,1979,"Rustavi, Georgia","November 2, 2000",
+wrighan01,"['Shooting Guard', 'Small Forward']",6-7,210,Right,,February 6,1984,"West Cova, California","November 23, 2005",
+anticpe01,['Center'],6-11,260,Right,,July 29,1982,"Skopje, FYR Macedonia","October 30, 2013",2
+copelch01,"['Power Forward', 'Small Forward']",6-9,239,Right,,March 17,1984,"Orange, New Jersey","November 2, 2012",4
+garbajo01,['Power Forward'],6-9,245,Right,,December 19,1977,"Madrid, Spa","November 1, 2006",
+gelabmi01,"['Small Forward', 'Shooting Guard']",6-7,215,Right,,May 22,1983,"Pote Noire, Guadeloupe","November 1, 2006",3
+mooreet01,"['Shooting Guard', 'Point Guard']",6-4,191,Right,New Orleans Pelicans,February 28,1989,"East Chicago, Indiana","December 25, 2011",5
+pollasc01,['Center'],6-11,265,Right,,February 12,1975,"Murray, Utah","October 31, 1997",
+roseja01,"['Small Forward', 'Shooting Guard', 'Point Guard']",6-8,210,Left,,January 30,1973,"Detroit, Michigan","November 4, 1994",
+ruffimi01,"['Power Forward', 'Center']",6-9,246,Right,,January 21,1977,"Denver, Colorado","November 3, 1999",
+templga01,"['Shooting Guard', 'Small Forward', 'Point Guard']",6-6,195,Right,Sacramento Kings,May 8,1986,"Baton Rouge, Louisiana","February 9, 2010",6
+willise01,"['Center', 'Power Forward']",6-10,235,Right,,September 13,1986,"Houston, Texas","November 2, 2007",
+clarkea01,"['Power Forward', 'Small Forward']",6-10,225,Right,,January 17,1988,"Plafield, New Jersey","October 28, 2009",6
+dorsejo01,"['Power Forward', 'Center']",6-8,268,Right,,December 16,1983,"Baltimore, Maryland","November 9, 2008",4
+hendeal01,"['Power Forward', 'Center', 'Small Forward']",6-9,235,Right,,December 2,1972,"Indianapolis, Indiana","November 3, 1995",
+kellyry01,['Power Forward'],6-11,230,Right,,April 9,1991,"Carmel, New York","November 5, 2013",3
+roberan03,"['Shooting Guard', 'Small Forward']",6-7,210,Right,Oklahoma City Thunder,December 4,1991,"Las Cruces, New Mexico","November 1, 2013",3
+smartma01,['Point Guard'],6-4,220,Right,Boston Celtics,March 6,1994,"Flower Mound, Texas","October 29, 2014",2
+hamiljo02,['Small Forward'],6-7,220,Right,,October 6,1990,"Los Angeles, California","January 25, 2012",5
+jonesju01,"['Small Forward', 'Power Forward', 'Shooting Guard']",6-8,218,Right,,February 10,1979,"Cocoa, Florida","November 2, 1999",
+dixonju01,"['Shooting Guard', 'Point Guard']",6-3,164,Right,,October 9,1978,"Baltimore, Maryland","October 31, 2002",
+porteot01,['Small Forward'],6-8,198,Right,Washington Wizards,June 3,1993,"St. Louis, Missouri","December 6, 2013",3
+stoudda01,['Point Guard'],5-10,171,Left,,September 3,1973,"Portland, Oregon","November 3, 1995",
+williaa01,"['Power Forward', 'Center']",6-9,220,Left,,October 2,1971,"Evanston, Illois","November 30, 1993",
+calatni01,['Shooting Guard'],6-6,213,Right,,February 7,1989,"Casselberry, Florida","October 30, 2013",2
+elyme01,"['Center', 'Power Forward']",6-10,260,Right,,May 2,1978,"Harvey, Illois","November 28, 2002",9
+mayse01,"['Power Forward', 'Center']",6-9,266,Right,,April 4,1984,"Chicago, Illois","November 2, 2005",
+pricero01,"['Point Guard', 'Shooting Guard']",6-2,190,Right,Phoenix Suns,June 21,1983,"Friendswood, Texas","November 1, 2005",11
+voskuja01,['Center'],6-11,245,Right,,November 1,1977,"Tulsa, Oklahoma","November 11, 2000",
+witheje01,['Center'],7-0,231,Right,Utah Jazz,March 7,1990,"San Diego, California","November 1, 2013",3
+brookma01,['Shooting Guard'],6-5,200,Right,,January 26,1989,"Long Branch, New Jersey","December 26, 2011",3
+mbengdj01,['Center'],7-0,245,Right,,December 30,1980,"Kshasa, Democratic Republic of the Congo","November 6, 2004",7
+jenkijo01,['Shooting Guard'],6-4,215,Right,,March 6,1991,"Nashville, Tennessee","November 11, 2012",4
+johnsch04,['Small Forward'],6-6,206,Left,,April 29,1990,"Orlando, Florida","January 23, 2013",4
+poweljo01,"['Power Forward', 'Center']",6-9,225,Right,,January 25,1983,"Charleston, South Carola","November 15, 2005",7
+roberla01,"['Center', 'Power Forward']",6-9,240,Right,,October 20,1982,"Houston, Texas","November 2, 2005",
+sweetmi01,"['Center', 'Power Forward']",6-8,275,Right,,October 25,1982,"Oxon Hill, Maryland","October 29, 2003",
+bogdabo02,['Small Forward'],6-8,216,Right,Brooklyn Nets,April 18,1989,"Mostar, Bosnia and Herzegova","October 29, 2014",2
+clarkjo01,"['Shooting Guard', 'Point Guard']",6-5,194,Right,Los Angeles Lakers,June 7,1992,"Tampa, Florida","October 28, 2014",2
+decolna01,"['Small Forward', 'Shooting Guard']",6-5,200,Right,,June 23,1987,"Sate-Cathere-les-Arras, France","November 3, 2012",2
+dickada01,['Point Guard'],6-0,190,Right,,September 16,1978,"Portland, Oregon","October 30, 2002",
+fredeji01,"['Shooting Guard', 'Point Guard']",6-2,195,Right,,February 25,1989,"Glens Falls, New York","December 26, 2011",5
+nichoan01,['Power Forward'],6-9,250,Right,Washington Wizards,December 8,1989,"Mississauga, Canada","November 2, 2012",4
+bowenry01,"['Small Forward', 'Shooting Guard', 'Power Forward']",6-7,215,Right,,November 20,1975,"Fort Madison, Iowa","November 2, 1999",
+claxtsp01,['Point Guard'],5-11,166,Right,,May 8,1978,"Queens, New York","October 30, 2001",
+dedmode01,['Center'],7-0,245,Right,San Antonio Spurs,August 12,1989,"Lancaster, California","November 18, 2013",3
+johnsli01,"['Power Forward', 'Small Forward']",6-8,205,Right,,June 13,1980,"Chicago, Illois","November 7, 2003",
+marksse01,"['Power Forward', 'Center']",6-10,250,Right,,August 23,1975,"Auckland, New Zealand","March 16, 1999",
+muhamsh01,"['Shooting Guard', 'Small Forward']",6-6,223,Left,Minnesota Timberwolves,November 13,1992,"Los Angeles, California","November 1, 2013",3
+paytoel01,['Point Guard'],6-4,185,Right,Orlando Magic,February 22,1994,"Gretna, Louisiana","October 28, 2014",2
+singlch01,"['Small Forward', 'Power Forward']",6-8,230,Right,,November 21,1989,"Canton, Georgia","December 26, 2011",3
+vanhoke01,"['Small Forward', 'Power Forward']",6-10,220,Right,,October 23,1975,"Fullerton, California","December 5, 1997",
+giricgo01,"['Shooting Guard', 'Small Forward']",6-6,210,Right,,June 20,1977,"Zagreb, Croatia","October 30, 2002",
+hoodro01,['Shooting Guard'],6-8,206,Left,Utah Jazz,October 20,1992,"Meridian, Mississippi","October 29, 2014",2
+inglejo01,['Small Forward'],6-8,226,Left,Utah Jazz,October 2,1987,"Happy Valley, Australia","October 29, 2014",2
+randosh01,['Power Forward'],6-10,240,Right,,November 24,1983,"Raleigh, North Carola","November 15, 2005",8
+stoudsa01,"['Shooting Guard', 'Point Guard']",6-1,179,Left,,October 11,1982,"Portland, Oregon","November 2, 2005",
+cartemi01,['Point Guard'],6-6,190,Right,Chicago Bulls,October 10,1991,"Hamilton, Massachusetts","October 30, 2013",3
+harrejo01,"['Center', 'Power Forward']",6-10,275,Right,,February 12,1989,"St. Charles, Missouri","December 25, 2011",3
+muscami01,"['Center', 'Power Forward']",6-11,240,Right,Atlanta Hawks,July 1,1991,"St. Louis Park, Mnesota","March 2, 2014",3
+sacrero01,['Center'],7-0,270,Right,,June 6,1989,"Baton Rouge, Louisiana","October 31, 2012",4
+wiggian01,['Small Forward'],6-8,199,Right,Minnesota Timberwolves,February 23,1995,"Toronto, Canada","October 29, 2014",2
+bastoma01,['Power Forward'],6-9,215,Right,,May 29,1975,"Corsicana, Texas","February 12, 2003",
+mccolcj01,['Shooting Guard'],6-4,200,Right,Portland Trail Blazers,September 19,1991,"Canton, Ohio","January 8, 2014",3
+sloando01,"['Point Guard', 'Shooting Guard']",6-3,205,Right,,January 15,1988,"Shreveport, Louisiana","January 11, 2012",5
+doleami01,['Center'],6-11,262,Right,,June 15,1977,"San Antonio, Texas","February 5, 1999",
+ennisja01,['Small Forward'],6-7,210,Right,Memphis Grizzlies,July 1,1990,"Ventura, California","October 29, 2014",2
+hummero01,['Small Forward'],6-8,215,Right,,March 8,1989,"Valparaiso, Indiana","November 1, 2013",2
+jacksma02,"['Center', 'Power Forward']",6-10,270,Right,,January 16,1975,"Philadelphia, Pennsylvania","November 2, 2000",
+jamesbe01,['Center'],6-10,240,Left,,February 7,1985,"Savannah, Georgia","October 31, 2012",3
+outlabo01,"['Power Forward', 'Small Forward', 'Center']",6-8,210,Right,,April 13,1971,"San Antonio, Texas","February 15, 1994",
+padgesc01,['Power Forward'],6-9,240,Right,,April 19,1976,"Louisville, Kentucky","November 4, 1999",
+bazemke01,"['Shooting Guard', 'Small Forward']",6-5,201,Left,Atlanta Hawks,July 1,1989,"Kelford, North Carola","November 9, 2012",4
+erdense01,['Center'],7-0,240,Right,,July 28,1986,"Istanbul, Turkey","November 2, 2010",
+khryavi01,"['Small Forward', 'Power Forward']",6-9,210,Right,,August 3,1982,"Kiev, Ukrae","February 1, 2005",
+schrode01,['Point Guard'],6-1,172,Right,Atlanta Hawks,September 15,1993,"Braunschweig, Germany","October 30, 2013",3
+thomala01,"['Power Forward', 'Small Forward']",6-8,235,Right,New York Knicks,April 24,1988,"Brooklyn, New York","December 28, 2011",5
+davisda01,"['Center', 'Power Forward']",6-11,230,Right,,March 25,1969,"Toccoa, Georgia","November 18, 1991",
+diawaya01,"['Shooting Guard', 'Small Forward']",6-7,225,Right,,August 29,1982,"Paris, France","November 2, 2006",4
+forbega01,"['Small Forward', 'Shooting Guard']",6-7,220,Right,,February 25,1985,"Colon, Panama","October 27, 2010",2
+grahast01,"['Shooting Guard', 'Small Forward']",6-6,215,Right,,June 11,1982,"Wilmgton, Delaware","December 11, 2005",
+hamilju01,['Center'],7-0,260,Right,Brooklyn Nets,April 1,1990,"Newport Beach, California","March 8, 2014",2
+harrida01,['Center'],7-0,280,Right,,August 15,1982,"Nashville, Tennessee","November 3, 2004",
+hartja01,['Point Guard'],6-3,185,Right,,April 29,1978,"Los Angeles, California","April 17, 2001",
+hunteli01,"['Point Guard', 'Shooting Guard']",6-2,170,Right,,December 3,1970,"Utica, Mississippi","November 5, 1993",
+jonespe01,"['Small Forward', 'Power Forward']",6-11,235,Right,,September 24,1991,"Wnsboro, Louisiana","November 2, 2012",3
+jordaje01,['Center'],7-0,253,Right,,September 29,1986,"Kgston, Jamaica","December 28, 2011",2
+mccalra01,['Point Guard'],6-3,190,Right,,June 12,1991,"Madison, Wiscons","December 6, 2013",3
+moultar01,['Power Forward'],6-11,249,Right,,November 18,1990,"Queens, New York","November 5, 2012",2
+robinbe01,"['Small Forward', 'Shooting Guard']",6-6,210,Left,,December 26,1980,"Washgton, District of Columbia","November 4, 2004",
+swiftro01,['Center'],7-0,245,Right,,December 3,1985,"Bakersfield, California","November 3, 2004",
+willico02,"['Small Forward', 'Power Forward']",6-7,245,Right,,December 4,1973,"Russellville, Arkansas","December 10, 1995",
+canaais01,"['Point Guard', 'Shooting Guard']",6-0,201,Right,Chicago Bulls,May 21,1991,"Biloxi, Mississippi","December 25, 2013",3
+haddaha01,['Center'],7-2,254,Right,,May 19,1985,"Ahvaz, Islamic Republic of Iran","December 30, 2008",
+kinseta01,['Shooting Guard'],6-6,185,Right,,March 21,1984,"Tampa, Florida","December 8, 2006",
+larkish01,['Point Guard'],5-11,175,Right,,October 2,1992,"Ccnati, Ohio","November 18, 2013",3
+lawac01,['Point Guard'],6-3,195,Right,,January 25,1985,"Dallas, Texas","November 2, 2007",
+nurkiju01,['Center'],7-0,280,Right,Denver Nuggets,August 23,1994,"Tuzla, Bosnia and Herzegova","October 29, 2014",2
+anderda03,"['Power Forward', 'Center']",6-11,245,Right,,June 23,1980,"Carlton, Australia","October 27, 2009",
+greendo01,"['Small Forward', 'Power Forward']",6-11,226,Right,,February 21,1988,"Munich, Germany","October 31, 2008",4
+johnsal01,['Power Forward'],6-9,240,Right,,February 8,1983,"Albany, Georgia","November 1, 2006",
+johnsch03,['Center'],6-11,210,Right,,July 15,1985,"Washgton, District of Columbia","February 1, 2011",3
+johnsor01,['Shooting Guard'],6-5,220,Right,,March 11,1989,"Monterey, California","November 5, 2012",3
+marshke01,['Point Guard'],6-4,200,Left,,August 19,1991,"Dumfries, Virgia","November 4, 2012",4
+masonde01,"['Small Forward', 'Shooting Guard']",6-7,224,Right,,October 11,1977,"Waxahachie, Texas","October 31, 2000",
+weaveky01,['Shooting Guard'],6-6,201,Right,,February 18,1986,"Janesville, Wiscons","October 29, 2008",
+aldemfu01,['Power Forward'],6-10,240,Right,,August 9,1991,"Konak, Turkey","December 15, 2014",1
+bartowi01,['Shooting Guard'],6-6,175,Right,Denver Nuggets,January 6,1991,"Baltimore, Maryland","November 2, 2012",4
+gainesu01,"['Point Guard', 'Shooting Guard']",6-1,185,Right,,April 18,1986,"Jamaica, New York","January 6, 2010",
+griffed01,"['Power Forward', 'Center']",6-10,220,Right,,May 30,1982,"Philadelphia, Pennsylvania","October 30, 2001",
+jonesdw02,['Power Forward'],6-11,250,Right,,June 9,1983,"Morgantown, West Virgia","February 10, 2006",
+mcleoke01,['Point Guard'],6-2,188,Right,,November 5,1979,"Canton, Ohio","October 29, 2003",
+navarju01,['Shooting Guard'],6-3,170,Right,,June 13,1980,"Sant Feliu de Llobregat, Spa","October 31, 2007",
+newblir01,"['Small Forward', 'Shooting Guard']",6-7,220,Right,,January 20,1975,"Southfield, Michigan","November 22, 2000",
+vanexni01,"['Point Guard', 'Shooting Guard']",6-1,170,Left,,November 27,1971,"Kenosha, Wiscons","November 5, 1993",
+westma02,['Shooting Guard'],6-5,210,Right,,June 19,1984,"Huntsville, Alabama","November 2, 2007",
+boothca01,['Center'],6-11,230,Left,,May 7,1976,"Reynoldsburg, Ohio","March 25, 2000",
+butleja01,['Center'],6-10,250,Right,,March 10,1985,"McComb, Mississippi","March 21, 2005",
+crabbal01,['Shooting Guard'],6-6,210,Right,Portland Trail Blazers,April 9,1992,"Los Angeles, California","November 1, 2013",3
+gallola01,['Point Guard'],6-2,200,Right,New Orleans Pelicans,December 9,1991,"Baton Rouge, Louisiana","January 7, 2015",2
+huntech01,['Center'],6-11,240,Right,,July 7,1984,"Gary, Indiana","November 20, 2009",
+jacksda01,['Power Forward'],6-9,253,Right,,November 7,1985,"Oklahoma City, Oklahoma","November 25, 2008",3
+mcgarmi01,['Power Forward'],6-10,255,Left,,June 6,1992,"Chesterton, Indiana","December 14, 2014",2
+ostergr01,['Center'],7-2,280,Right,,March 6,1973,"Dallas, Texas","November 3, 1995",
+parkeja01,['Power Forward'],6-8,250,Right,Milwaukee Bucks,March 15,1995,"Chicago, Illois","October 29, 2014",2
+rudezda01,['Small Forward'],6-10,228,Right,Orlando Magic,June 17,1986,"Zagreb, Croatia","October 29, 2014",2
+tayloje03,['Small Forward'],6-7,225,Right,,May 23,1989,"Norkoppg, Sweden","November 3, 2012",3
+willijo03,['Center'],6-10,260,Right,,October 11,1990,"Torrgton, Connecticut","January 2, 2012",
+woodsqy01,"['Small Forward', 'Power Forward']",6-8,221,Right,,February 16,1981,"Memphis, Tennessee","October 30, 2002",
+garripa01,"['Power Forward', 'Small Forward']",6-9,238,Right,,August 23,1976,"Las Vegas, Nevada","February 5, 1999",
+milleda01,['Small Forward'],6-8,235,Right,,March 21,1990,"Maysville, Kentucky","October 31, 2012",3
+harriot01,"['Power Forward', 'Center']",6-9,235,Left,,January 31,1974,"Jackson, Mississippi","November 1, 1996",
+holidju01,['Shooting Guard'],6-6,185,Right,New York Knicks,April 5,1989,"Mission Hills, California","April 3, 2013",3
+johnsde03,"['Small Forward', 'Shooting Guard']",6-9,201,Right,,May 5,1980,"Washgton, District of Columbia","October 31, 2000",
+jonesbo02,"['Small Forward', 'Center']",6-7,215,Right,,January 9,1984,"Compton, California","November 15, 2006",
+kukocto01,"['Small Forward', 'Power Forward']",6-10,192,Left,,September 18,1968,"Split, Croatia","November 5, 1993",
+radulmi01,['Center'],7-0,250,Right,,January 5,1988,"Belgrade, Serbia","November 12, 2013",2
+warretj01,['Small Forward'],6-8,230,Right,Phoenix Suns,September 5,1993,"Durham, North Carola","November 9, 2014",2
+williju01,['Center'],6-10,225,Right,,May 12,1984,"Chicago, Illois","January 13, 2007",
+gordoaa01,"['Power Forward', 'Small Forward']",6-9,220,Right,Orlando Magic,September 16,1995,"San Jose, California","October 28, 2014",2
+harrimi01,['Power Forward'],6-6,240,Right,,June 15,1983,"Hillsboro, Texas","March 10, 2008",4
+ortonda01,"['Center', 'Power Forward']",6-10,255,Right,,August 6,1990,"Oklahoma City, Oklahoma","January 27, 2012",3
+riverau01,"['Shooting Guard', 'Point Guard']",6-4,200,Right,Los Angeles Clippers,August 1,1992,"Santa Monica, California","October 31, 2012",4
+woltena01,['Point Guard'],6-4,190,Right,,May 15,1991,"St. Cloud, Mnesota","October 30, 2013",2
+delkto01,"['Point Guard', 'Shooting Guard']",6-1,189,Right,,January 28,1974,"Covgton, Tennessee","November 3, 1996",
+fesenky01,['Center'],7-1,288,Right,,December 24,1986,"Dnepropetrovsk, Ukrae","November 30, 2007",5
+haranlu01,['Power Forward'],6-8,246,Right,,January 2,1988,"Decatur, Illois","November 2, 2010",
+murrala01,['Small Forward'],6-7,236,Right,,April 20,1973,"Pasadena, California","November 4, 1994",
+pressph01,['Point Guard'],5-11,175,Right,,February 17,1991,"Dallas, Texas","October 30, 2013",3
+simiewa01,['Power Forward'],6-9,255,Right,,March 9,1983,"Leavenworth, Kansas","November 2, 2005",
+wrighch01,['Small Forward'],6-8,226,Right,,September 30,1988,"Trotwood, Ohio","December 31, 2011",2
+adamsha01,['Shooting Guard'],6-4,220,Right,,June 20,1984,"Inglewood, California","November 1, 2006",
+ewingda01,"['Point Guard', 'Shooting Guard']",6-3,185,Right,,March 26,1983,"Milton, Florida","November 2, 2005",
+fazekni01,['Power Forward'],6-11,235,Right,,June 17,1985,"Denver, Colorado","November 3, 2007",
+hairsma01,['Shooting Guard'],6-6,220,Right,,February 23,1987,"Detroit, Michigan","January 31, 2009",
+henryxa01,"['Small Forward', 'Shooting Guard']",6-6,220,Left,,March 15,1991,"Gent, Belgium","October 27, 2010",5
+jeffeot01,['Shooting Guard'],6-5,200,Right,,August 5,1985,"Chicago, Illois","March 6, 2010",3
+jeffeco01,['Power Forward'],6-9,218,Right,,December 26,1990,"Tacoma, Washgton","October 29, 2014",2
+johnsty01,"['Shooting Guard', 'Point Guard']",6-4,186,Left,Miami Heat,May 7,1992,"Grand Forks, North Dakota","January 14, 2015",2
+welscji01,"['Small Forward', 'Shooting Guard']",6-7,208,Right,,January 27,1980,"Pardubice, Czech Republic","October 30, 2002",
+whiteja02,"['Small Forward', 'Shooting Guard']",6-7,200,Right,,October 21,1982,"Washgton, District of Columbia","March 26, 2007",
+williel01,"['Shooting Guard', 'Point Guard']",6-5,190,Left,,June 20,1989,"Memphis, Tennessee","December 27, 2011",4
+baxtelo01,"['Power Forward', 'Center']",6-8,260,Right,,January 27,1979,"Silver Sprg, Maryland","November 1, 2002",
+greerly01,['Shooting Guard'],6-2,175,Left,,October 23,1979,"Philadelphia, Pennsylvania","January 8, 2007",
+jetereu01,['Point Guard'],5-11,175,Right,,December 2,1983,"Los Angeles, California","October 27, 2010",
+kurzro01,['Small Forward'],6-9,232,Right,,March 5,1985,"Philadelphia, Pennsylvania","November 9, 2008",
+rebraze01,['Center'],7-0,257,Right,,April 9,1972,"Apat, Serbia","October 30, 2001",
+richach01,"['Center', 'Power Forward']",6-9,270,Right,,December 25,1984,"Lakeland, Florida","November 6, 2007",
+rushka01,"['Shooting Guard', 'Point Guard']",6-6,215,Left,,October 30,1980,"Kansas City, Missouri","October 29, 2002",
+uzohbe01,['Point Guard'],6-3,205,Right,,March 19,1988,"Houston, Texas","November 15, 2010",
+varnaja01,['Power Forward'],6-9,230,Right,,March 1,1988,"Fairfax, Virgia","December 25, 2012",2
+wilksmi01,"['Point Guard', 'Shooting Guard']",5-10,185,Right,,May 7,1979,"Milwaukee, Wiscons","December 27, 2002",
+gutiejo01,['Point Guard'],6-3,191,Right,,December 27,1988,"Chihuahua, Mexico","March 9, 2014",3
+hudsotr01,['Point Guard'],6-1,170,Right,,March 13,1976,"Carbondale, Illois","October 31, 1997",
+karasse01,"['Small Forward', 'Shooting Guard']",6-7,208,Left,,October 26,1993,"St. Petersburg, Russia","November 2, 2013",3
+liggide01,"['Shooting Guard', 'Small Forward']",6-6,209,Right,Cleveland Cavaliers,March 31,1988,"Chicago, Illois","February 20, 2012",3
+madsema01,"['Center', 'Power Forward']",6-9,240,Right,,January 28,1976,"Walnut Creek, California","October 31, 2000",
+mcdankj01,"['Small Forward', 'Shooting Guard']",6-6,205,Right,Houston Rockets,February 9,1993,"Mobile, Alabama","October 29, 2014",2
+mulleby01,"['Power Forward', 'Center']",7-0,275,Right,,February 14,1989,"Canal Wchester, Ohio","December 28, 2009",5
+poweldw01,"['Power Forward', 'Center']",6-11,240,Right,Dallas Mavericks,July 20,1991,"Toronto, Canada","November 14, 2014",2
+rayal01,['Shooting Guard'],6-2,190,Right,,June 17,1984,"Bronx, New York","November 17, 2006",
+sampsja02,['Small Forward'],6-9,214,Right,,March 20,1993,"Cleveland, Ohio","October 29, 2014",2
+samuesa01,"['Center', 'Power Forward']",6-9,260,Right,,January 9,1989,"Trelawny, Jamaica","October 29, 2010",
+smithis01,['Point Guard'],6-0,175,Right,Detroit Pistons,July 5,1988,"Charlotte, North Carola","October 26, 2010",6
+sowpa01,['Center'],6-10,250,Right,,November 22,1981,"Dakar, Senegal","November 13, 2004",
+stoneju01,"['Shooting Guard', 'Point Guard']",6-6,200,Right,,December 7,1988,"Alexandria, Virgia","January 11, 2012",3
+weemsso01,"['Shooting Guard', 'Small Forward']",6-6,205,Right,,July 8,1986,"West Memphis, Arkansas","January 17, 2009",4
+alexajo01,['Small Forward'],6-8,230,Right,,December 26,1986,"Kaohsiung, Taiwan","November 2, 2008",
+andersh01,"['Shooting Guard', 'Small Forward']",6-6,208,Right,,December 31,1973,"Atlanta, Georgia","November 1, 1996",
+brownma02,['Shooting Guard'],6-3,190,Right,,January 29,1992,"Peville, Louisiana","November 22, 2014",2
+davispa01,"['Power Forward', 'Center']",6-11,270,Right,,July 21,1984,"Detroit, Michigan","November 2, 2006",
+ebankde01,"['Shooting Guard', 'Small Forward']",6-9,215,Right,,October 28,1989,"Queens, New York","October 31, 2010",3
+grantje01,['Small Forward'],6-8,210,Right,Oklahoma City Thunder,March 12,1994,"Portland, Oregon","November 29, 2014",2
+jenkich01,"['Point Guard', 'Shooting Guard']",6-3,220,Right,,February 28,1989,"Brooklyn, New York","December 25, 2011",2
+macklve01,['Center'],6-10,227,Right,,September 20,1986,"Portsmouth, Virgia","December 28, 2011",1
+mcadoja01,['Power Forward'],6-9,230,Right,Golden State Warriors,January 4,1993,"Norfolk, Virgia","January 19, 2015",2
+nailole01,"['Small Forward', 'Power Forward']",6-9,238,Left,,February 22,1975,"South Bend, Indiana","November 19, 2000",
+napiesh01,['Point Guard'],6-1,175,Right,Portland Trail Blazers,July 14,1991,"Roxbury, Massachusetts","October 29, 2014",2
+obryapa01,['Center'],7-0,260,Right,,June 20,1986,"Oskaloosa, Iowa","November 1, 2006",4
+papanko01,['Small Forward'],6-8,225,Left,,July 31,1990,"Trikala, Greece","October 28, 2014",2
+pecheol01,['Center'],7-0,232,Right,,December 8,1985,"Donetsk, Ukrae","January 11, 2008",3
+pittmde01,['Center'],6-11,308,Right,,March 2,1988,"Rosenberg, Texas","April 1, 2011",4
+roberan02,['Point Guard'],6-2,180,Right,,February 14,1983,"Sagaw, Michigan","November 26, 2005",
+sampsja01,"['Power Forward', 'Center']",6-11,235,Right,,May 15,1983,"Inglewood, California","January 25, 2003",
+solomwi01,"['Point Guard', 'Shooting Guard']",6-1,185,Right,,July 20,1978,"Hartford, Connecticut","November 2, 2001",
+stausni01,['Shooting Guard'],6-6,205,Right,Philadelphia 76ers,October 7,1993,"Mississauga, Canada","October 29, 2014",2
+stokeja01,"['Power Forward', 'Center']",6-9,263,Right,Denver Nuggets,January 7,1994,"Memphis, Tennessee","November 17, 2014",2
+taftch01,['Center'],6-10,260,Right,,March 10,1985,"Brooklyn, New York","November 2, 2005",
+vonleno01,['Power Forward'],6-10,240,Right,Portland Trail Blazers,August 24,1995,"Haverhill, Massachusetts","November 15, 2014",2
+willija04,"['Small Forward', 'Point Guard']",6-9,218,Right,,February 19,1983,"Cleveland, Ohio","December 12, 2008",
+willish01,"['Point Guard', 'Shooting Guard']",6-1,201,Right,,April 5,1975,"Bronx, New York","February 5, 1999",
+woodslo01,['Center'],7-1,245,Right,,June 21,1978,"St. Louis, Missouri","October 30, 2001",
+wrighbr02,['Shooting Guard'],6-3,210,Right,,July 1,1984,"The Colony, Texas","January 24, 2006",
+adamsjo01,['Shooting Guard'],6-5,209,Right,,July 8,1994,"Atlanta, Georgia","November 3, 2014",2
+barryjo01,['Shooting Guard'],6-4,195,Right,,July 25,1969,"Oakland, California","December 8, 1992",
+brownja01,['Shooting Guard'],6-4,215,Right,,December 18,1992,"Oakland, California","March 12, 2015",1
+catoke01,"['Center', 'Power Forward']",6-11,255,Right,,August 26,1974,"Atlanta, Georgia","October 31, 1997",
+danietr01,['Shooting Guard'],6-4,205,Right,Memphis Grizzlies,July 15,1991,"Roanoke, Virgia","March 5, 2014",3
+gilled01,['Point Guard'],6-0,190,Right,,August 16,1978,"Aurora, Colorado","March 30, 2001",
+goodwar01,"['Shooting Guard', 'Point Guard']",6-5,200,Right,,August 17,1994,"Little Rock, Arkansas","October 30, 2013",3
+greenja01,['Power Forward'],6-9,227,Right,Memphis Grizzlies,June 21,1990,"Montgomery, Alabama","January 18, 2015",2
+kravtvi01,['Center'],7-0,260,Right,,August 25,1987,"Odessa, Ukrae","December 21, 2012",2
+leema01,['Shooting Guard'],6-5,200,Right,,May 22,1990,"Riverside, California","March 10, 2012",3
+martida01,['Point Guard'],5-11,170,Left,,March 6,1971,"Denver, Colorado","February 14, 1995",
+mensapo01,['Power Forward'],6-9,240,Right,,September 7,1983,"London, United Kgdom","November 21, 2006",4
+millsel01,['Shooting Guard'],6-6,225,Right,,August 12,1987,"Gramblg, Louisiana","January 5, 2015",2
+noelda01,['Power Forward'],6-6,230,Right,,February 27,1984,"Durham, North Carola","November 3, 2006",
+pruitga01,"['Shooting Guard', 'Point Guard']",6-4,170,Right,,April 19,1986,"Los Angeles, California","November 9, 2007",
+tuckeal02,"['Small Forward', 'Shooting Guard']",6-6,205,Right,,February 11,1984,"Lockport, Illois","November 6, 2007",
+whittsh01,['Power Forward'],6-11,250,Right,,March 27,1991,"Paw Paw, Michigan","November 8, 2014",2
+anderky01,"['Small Forward', 'Shooting Guard']",6-9,230,Right,San Antonio Spurs,September 20,1993,"New York, New York","November 6, 2014",2
+augmost01,"['Shooting Guard', 'Small Forward']",6-8,205,Left,,August 1,1968,"Pasadena, California","November 2, 1991",
+augusja01,['Power Forward'],6-10,235,Left,,February 27,1984,"Midlothian, Illois","February 2, 2007",
+batises01,['Power Forward'],6-10,270,Left,,September 2,1983,"Montevideo, Uruguay","November 2, 2005",
+brownan01,['Power Forward'],6-9,245,Right,,May 12,1981,"Chicago, Illois","January 5, 2007",
+bullore01,['Small Forward'],6-7,205,Right,Detroit Pistons,March 16,1991,"Baltimore, Maryland","October 29, 2013",3
+cabarza01,['Power Forward'],6-11,235,Right,,May 21,1981,"Zrenjan, Serbia","October 28, 2003",
+caracde01,['Center'],6-9,275,Right,,May 4,1988,"Fanwood, New Jersey","October 26, 2010",
+chrisdi01,['Small Forward'],6-5,205,Right,,September 15,1986,"Philadelphia, Pennsylvania","November 1, 2013",1
+datomlu01,['Small Forward'],6-8,215,Right,,November 27,1987,"Montebelluna, Italy","October 30, 2013",2
+daviebr01,['Power Forward'],6-10,240,Right,,July 25,1991,"Philadelphia, Pennsylvania","November 2, 2013",2
+davisan01,"['Power Forward', 'Center']",6-9,215,Right,,October 31,1968,"Oakland, California","November 5, 1993",
+davisjo02,['Power Forward'],6-8,235,Right,,August 10,1980,"Salem, Oregon","March 10, 2004",
+duprero01,['Small Forward'],6-7,209,Right,,January 26,1981,"Biloxi, Mississippi","January 7, 2004",
+eisleho01,"['Point Guard', 'Shooting Guard']",6-2,177,Right,,December 4,1972,"Detroit, Michigan","November 4, 1994",
+favervi01,['Center'],6-11,260,Right,,May 5,1988,"Porto Alegre, Brazil","October 30, 2013",1
+frahmri01,"['Shooting Guard', 'Small Forward']",6-5,210,Right,,August 14,1977,"Battle Ground, Washgton","October 30, 2003",
+hairspj02,"['Small Forward', 'Shooting Guard']",6-6,230,Right,,December 24,1992,"Greensboro, North Carola","November 4, 2014",2
+harrima01,['Shooting Guard'],6-5,185,Right,,September 21,1989,"Detroit, Michigan","October 29, 2010",3
+jonesdo02,"['Shooting Guard', 'Point Guard']",6-4,215,Right,,October 15,1988,"Lake Wales, Florida","October 27, 2010",
+kasunma01,['Center'],7-1,260,Right,,April 5,1980,"Split, Croatia","November 12, 2004",
+lasmest01,"['Power Forward', 'Small Forward']",6-8,215,Right,,December 17,1982,"Port-Gentil, Gabon","November 8, 2007",
+mcinnje01,"['Point Guard', 'Shooting Guard']",6-4,190,Right,,October 22,1974,"Charlotte, North Carola","November 10, 1996",
+norrimo01,['Point Guard'],6-1,175,Left,,July 27,1973,"Washgton, District of Columbia","December 12, 1996",
+onuakar01,"['Center', 'Power Forward']",6-9,255,Right,,July 13,1987,"Lanham, Maryland","October 30, 2013",2
+owensla01,['Small Forward'],6-7,210,Right,,January 8,1983,"Mesa, Arizona","January 16, 2011",
+profila01,"['Shooting Guard', 'Small Forward', 'Point Guard']",6-5,204,Right,,August 5,1977,"Charleston, South Carola","November 2, 1999",
+schenlu01,['Center'],7-1,255,Right,,December 31,1982,"Hope Forest, Australia","March 5, 2006",
+senesa01,['Center'],6-11,230,Right,,May 12,1986,"Thies, Senegal","November 1, 2006",
+smithch04,['Shooting Guard'],6-4,194,Right,,August 22,1975,"Fort Worth, Texas","November 11, 1997",
+smithdo04,['Shooting Guard'],6-7,215,Right,,November 27,1983,"Louisville, Kentucky","November 26, 2004",
+storeaw01,"['Shooting Guard', 'Small Forward']",6-6,222,Right,,April 18,1977,"Chicago, Illois","November 13, 2004",
+tylerje01,['Center'],6-10,260,Right,,June 21,1991,"San Diego, California","December 25, 2011",3
+youngja01,['Shooting Guard'],6-6,215,Left,Boston Celtics,August 16,1995,"Flt, Michigan","November 1, 2014",2
+basdeed01,['Small Forward'],6-5,215,Right,,February 15,1983,"New York, New York","November 7, 2005",
+clavevi01,['Small Forward'],6-9,224,Right,,August 30,1988,"Valencia, Spa","November 3, 2012",3
+cooleja01,['Power Forward'],6-9,260,Right,,April 4,1991,"Evanston, Illois","February 27, 2015",1
+cottobr01,['Point Guard'],6-1,165,Right,,August 11,1992,"Tucson, Arizona","February 27, 2015",2
+edwarjo01,['Center'],7-0,275,Right,,July 31,1981,"Warren, Ohio","November 6, 2004",
+engliki01,['Shooting Guard'],6-6,200,Right,,September 24,1988,"Baltimore, Maryland","October 31, 2012",1
+fortsda01,"['Power Forward', 'Center']",6-7,260,Right,,March 27,1976,"Philadelphia, Pennsylvania","October 31, 1997",
+gladnmi01,['Power Forward'],6-11,220,Right,,July 26,1986,"Birmgham, Alabama","December 25, 2011",1
+grantbr01,"['Power Forward', 'Center', 'Small Forward']",6-9,254,Right,,March 5,1972,"Columbus, Ohio","November 4, 1994",
+grundan01,['Shooting Guard'],6-3,180,Right,,April 15,1979,"Louisville, Kentucky","March 29, 2006",
+hansbbe01,['Point Guard'],6-3,203,Right,,December 23,1987,"Poplar Bluff, Missouri","November 5, 2012",1
+harrijo01,['Shooting Guard'],6-6,219,Right,Brooklyn Nets,September 7,1991,"Chelan, Washgton","October 31, 2014",2
+haywala01,['Small Forward'],6-6,225,Right,,November 26,1986,"Buffalo, New York","October 29, 2010",
+hudsole01,"['Point Guard', 'Shooting Guard']",6-3,190,Right,,August 7,1984,"Memphis, Tennessee","October 28, 2009",4
+hunteot01,"['Small Forward', 'Power Forward']",6-8,225,Right,,May 28,1986,"Wston-Salem, North Carola","November 11, 2008",
+jacksje01,"['Shooting Guard', 'Point Guard']",6-4,204,Right,,June 7,1976,"Detroit, Michigan","November 13, 1999",
+jawaina01,"['Power Forward', 'Center']",6-10,280,Right,,October 10,1986,"Sydney, Australia","January 21, 2009",
+jeffedo01,['Shooting Guard'],6-5,195,Right,,December 15,1983,"Lithonia, Georgia","April 5, 2009",
+johnsja02,['Power Forward'],6-10,221,Right,,February 8,1989,"Indianapolis, Indiana","December 28, 2011",
+joneske01,['Power Forward'],6-8,251,Right,,August 25,1989,"Mount Vernon, New York","December 7, 2012",1
+kuzmiog01,['Center'],7-1,251,Right,,May 16,1990,"Doboj, Bosnia and Herzegova","October 30, 2013",2
+marshra01,"['Small Forward', 'Shooting Guard']",6-9,190,Right,,February 20,1982,"Georgetown, Guyana","November 19, 2005",
+mckieaa01,"['Shooting Guard', 'Small Forward', 'Point Guard']",6-5,209,Right,,October 2,1972,"Philadelphia, Pennsylvania","November 4, 1994",
+medvest01,"['Power Forward', 'Center']",6-10,250,Right,,April 4,1979,"Karapyshi, Ukrae","December 28, 2000",
+mitchto02,['Power Forward'],6-8,235,Right,,April 7,1992,"Milwaukee, Wiscons","October 30, 2013",1
+ndongbo01,['Center'],7-0,198,Right,,March 9,1977,"Dakar, Senegal","November 4, 2005",
+olowomi01,['Center'],7-0,269,Right,,April 3,1975,"Lagos, Nigeria","February 5, 1999",
+owensan01,['Point Guard'],6-4,200,Right,,October 31,1980,"Indianapolis, Indiana","November 7, 2005",
+palacmi01,"['Point Guard', 'Shooting Guard']",6-3,195,Right,,February 7,1978,"Los Angeles, California","November 2, 1999",
+piatker01,"['Shooting Guard', 'Small Forward']",6-7,215,Right,,September 30,1970,"Steubenville, Ohio","November 4, 1994",
+pinknke01,['Power Forward'],6-10,245,Right,,October 20,1983,"Colton, California","April 4, 2007",
+reedju01,"['Small Forward', 'Power Forward']",6-8,240,Right,,January 16,1982,"Jackson, Mississippi","November 23, 2004",
+sandeme01,['Shooting Guard'],6-5,210,Right,,January 3,1981,"Liberal, Kansas","November 9, 2005",
+tayloje02,['Shooting Guard'],6-4,210,Right,,December 8,1986,"Tavares, Florida","November 2, 2009",2
+thomaja02,['Power Forward'],6-8,235,Right,,November 22,1980,"Schenectady, New York","January 9, 2005",
+thompdi01,"['Shooting Guard', 'Small Forward']",6-7,195,Right,,February 23,1983,"Los Angeles, California","November 30, 2005",
+vincima01,['Small Forward'],6-8,225,Right,,May 31,1984,"San Paulo, Brazil","November 25, 2006",
+wareca01,['Point Guard'],5-10,175,Right,,January 17,1990,"Cerritos, California","March 24, 2014",1
+warrewi01,['Point Guard'],6-4,203,Right,,October 22,1989,"Dallas, Texas","November 1, 2010",
+willier01,"['Small Forward', 'Shooting Guard']",6-8,220,Right,,July 17,1972,"Newark, New Jersey","November 3, 1995",
+bakervi01,"['Power Forward', 'Center']",6-11,232,Right,,November 23,1971,"Lake Wales, Florida","November 5, 1993",
+bendejo01,['Small Forward'],6-11,202,Right,,January 30,1981,"Picayune, Mississippi","December 10, 1999",
+bradlmi01,"['Power Forward', 'Center']",6-10,245,Right,,April 18,1979,"Worcester, Massachusetts","October 30, 2001",
+brownde03,['Point Guard'],6-0,185,Right,,August 17,1984,"Jackson, Mississippi","November 4, 2006",
+burkepa01,['Center'],6-11,250,Left,,December 14,1973,"Dubl, Ireland","October 29, 2002",
+byarsde01,['Power Forward'],6-7,220,Right,,April 25,1984,"Memphis, Tennessee","April 25, 2012",1
+chrisdo01,"['Shooting Guard', 'Small Forward']",6-6,200,Right,,May 9,1970,"Seattle, Washgton","March 12, 1993",
+clarkia01,['Shooting Guard'],6-3,175,Right,Golden State Warriors,March 7,1991,"Memphis, Tennessee","November 1, 2013",3
+crittja01,"['Shooting Guard', 'Point Guard']",6-5,200,Right,,December 31,1987,"Atlanta, Georgia","November 2, 2007",
+cunnija01,['Shooting Guard'],6-4,195,Right,,May 22,1991,"Oakland, California","October 31, 2012",4
+dawsoer01,['Center'],6-9,250,Right,,July 7,1984,"San Antonio, Texas","February 21, 2012",1
+dinwisp01,['Point Guard'],6-6,200,Right,Brooklyn Nets,April 6,1993,"Los Angeles, California","October 29, 2014",2
+dysonje01,['Point Guard'],6-3,180,Right,,May 1,1987,"Rockville, Maryland","April 11, 2012",
+emmetan01,"['Shooting Guard', 'Small Forward']",6-5,230,Right,,August 27,1982,"Dallas, Texas","January 14, 2005",
+fitchge01,['Point Guard'],6-3,188,Right,,August 12,1982,"Columbus, Georgia","November 23, 2005",
+giddejr01,['Small Forward'],6-5,215,Right,,February 13,1985,"Oklahoma City, Oklahoma","February 22, 2009",
+goudean01,"['Shooting Guard', 'Point Guard']",6-3,200,Right,,December 7,1988,"Gaesville, Georgia","December 25, 2011",3
+haislma01,"['Power Forward', 'Small Forward']",6-10,230,Right,,December 22,1980,"Lewisburg, Tennessee","November 2, 2002",
+hamilze01,"['Center', 'Power Forward']",6-11,250,Left,,April 27,1975,"Floral Park, New York","November 18, 2000",
+hardaan01,"['Shooting Guard', 'Point Guard', 'Small Forward']",6-7,195,Right,,July 18,1971,"Memphis, Tennessee","November 5, 1993",
+jackslu02,['Small Forward'],6-7,215,Left,,November 6,1981,"Eugene, Oregon","November 6, 2004",
+jonesde01,['Small Forward'],6-8,221,Right,,June 20,1990,"Stone Mounta, Georgia","November 4, 2012",1
+kilpase01,['Shooting Guard'],6-4,210,Right,Brooklyn Nets,January 6,1990,"Yonkers, New York","March 19, 2015",2
+lambdo01,['Shooting Guard'],6-4,210,Right,,November 6,1991,"Queens, New York","November 2, 2012",2
+langja01,['Center'],6-10,285,Right,,October 17,1983,"Mobile, Alabama","November 28, 2006",
+lauvejo01,['Center'],6-11,220,Right,Oklahoma City Thunder,September 30,1991,"Mulhouse, France","February 22, 2015",2
+leslitr01,['Shooting Guard'],6-4,205,Right,,March 29,1990,"Atlanta, Georgia","December 28, 2011",
+mcfariv01,['Power Forward'],6-8,240,Right,,April 26,1982,"Missouri City, Texas","November 7, 2006",
+mitchto03,['Small Forward'],6-6,216,Right,,August 7,1989,"Swasboro, Georgia","March 5, 2014",1
+planizo01,"['Point Guard', 'Shooting Guard']",6-7,195,Right,,September 12,1982,"Mostar, Bosnia and Herzegova","October 31, 2003",
+reidry01,['Power Forward'],6-8,232,Right,,October 30,1986,"Lauderdale Lakes, Florida","February 14, 2012",
+robingl02,"['Small Forward', 'Shooting Guard']",6-6,222,Right,Indiana Pacers,January 8,1994,"Gary, Indiana","November 14, 2014",2
+silerga01,['Center'],6-11,305,Right,,October 25,1986,"Augusta, Georgia","November 3, 2010",
+simmoce01,['Power Forward'],6-9,235,Right,,January 3,1986,"Shallotte, North Carola","November 1, 2006",
+slokaur01,['Center'],6-10,238,Left,,May 14,1983,"Ljubljana, Slovenia","December 8, 2006",
+thomama01,['Power Forward'],6-9,225,Right,,November 8,1988,"Columbia, Missouri","January 13, 2012",4
+vromaja01,"['Power Forward', 'Center']",6-10,220,Right,,June 6,1981,"Laguna, California","November 3, 2004",
+akognjo01,['Point Guard'],5-11,185,Right,,February 10,1986,"Greenbrae, California","April 10, 2013",1
+alabiso01,['Center'],7-1,251,Right,,March 21,1988,"Kaduna, Nigeria","November 13, 2010",2
+allrela01,['Center'],6-11,250,Right,,February 2,1981,"Salt Lake City, Utah","March 17, 2008",
+almonmo01,['Shooting Guard'],6-6,225,Right,,February 2,1985,"Dalton, Georgia","November 7, 2007",
+anderan02,['Small Forward'],6-6,215,Right,,June 5,1985,"Lynn, Massachusetts","March 3, 2010",
+andrima01,['Center'],7-2,240,Right,,March 12,1986,"Kaunas, Lithuania","January 5, 2006",
+babbch01,['Shooting Guard'],6-5,225,Right,,February 14,1990,"Arlgton, Texas","March 1, 2014",1
+benimje01,['Power Forward'],6-8,245,Right,,August 1,1991,"Warrenton, Virgia","March 10, 2015",1
+bensoke02,['Center'],6-11,240,Right,,August 13,1988,"Cleveland, Ohio","March 24, 2012",1
+bhullsi01,['Center'],7-5,360,Right,,December 2,1992,"Ontario, Canada","April 7, 2015",1
+brownlo01,['Point Guard'],6-5,189,Right,,August 26,1990,"Roswell, Georgia","November 20, 2013",3
+buyckdw01,['Point Guard'],6-3,190,Right,,March 6,1989,"Milwaukee, Wiscons","November 1, 2013",2
+capelca01,['Center'],6-10,240,Right,Houston Rockets,May 18,1994,"Geneva, Switzerland","November 6, 2014",2
+cheanca01,"['Shooting Guard', 'Small Forward']",6-7,209,Left,,July 17,1971,"Evansville, Indiana","November 5, 1993",
+cherrwi01,['Point Guard'],6-0,185,Right,,February 8,1991,"Oakland, California","November 7, 2014",1
+cleavma01,['Point Guard'],6-2,205,Right,,September 7,1977,"Flt, Michigan","October 31, 2000",
+cousima01,['Center'],6-11,245,Right,,December 18,1986,"Baltimore, Maryland","March 9, 2011",1
+crawfjo01,['Small Forward'],6-5,210,Right,,June 17,1986,"Detroit, Michigan","April 8, 2009",
+curryja01,['Point Guard'],6-3,190,Right,,January 7,1986,"Pleasant Grove, North Carola","January 25, 2010",
+curryse01,['Point Guard'],6-2,185,Right,Dallas Mavericks,August 23,1990,"Charlotte, North Carola","January 5, 2014",3
+davidje01,['Small Forward'],6-10,230,Right,,November 15,1984,"Atlanta, Georgia","November 6, 2007",
+diazgu01,['Shooting Guard'],6-2,192,Right,,March 4,1985,"San Juan, Puerto Rico","January 15, 2008",
+dickeka01,"['Power Forward', 'Small Forward']",6-8,215,Right,,July 21,1978,"Denver, Colorado","December 20, 2003",
+doubyqu01,['Point Guard'],6-3,175,Right,,May 16,1984,"Brooklyn, New York","November 12, 2006",
+edwarsh01,['Small Forward'],6-7,220,Right,,May 31,1987,"Los Angeles, California","March 16, 2014",1
+farmede01,['Shooting Guard'],6-5,220,Left,,October 7,1981,"Flt, Michigan","November 18, 2006",
+felixca01,['Shooting Guard'],6-6,201,Right,,August 17,1990,"Las Vegas, Arizona","November 22, 2013",1
+fizerma01,"['Power Forward', 'Small Forward']",6-9,262,Right,,August 10,1978,"Detroit, Michigan","October 31, 2000",
+fordsh02,['Power Forward'],6-9,225,Right,,January 9,1982,"Washgton, District of Columbia","November 30, 2005",
+fortsco01,['Point Guard'],5-11,185,Left,,May 23,1988,"San Antonio, Texas","January 16, 2012",
+frankja01,['Shooting Guard'],6-5,191,Right,,July 21,1991,"Moreno Valley, California","November 6, 2013",2
+gaide01,['Center'],6-9,250,Right,,March 22,1982,"Wow, South Sudan","November 2, 2005",
+gainere01,['Point Guard'],6-6,205,Right,,January 7,1981,"Madison, Wiscons","October 29, 2003",
+gildetr01,['Small Forward'],6-9,185,Right,,January 24,1985,"Dallas, Texas","October 28, 2009",
+greener01,['Point Guard'],6-4,185,Right,,May 9,1991,"Inglewood, California","November 7, 2014",2
+griffta01,['Small Forward'],6-7,238,Right,,April 18,1986,"Oklahoma City, Oklahoma","November 4, 2009",
+hallmi01,['Small Forward'],6-8,230,Right,,June 5,1984,"Chicago, Illois","April 3, 2007",
+harriel01,['Small Forward'],6-8,239,Right,,July 6,1989,"Speyer, Germany","October 30, 2013",1
+hillst01,['Power Forward'],7-0,248,Left,,November 14,1985,"Chanute, Kansas","November 12, 2008",
+hodgeju01,['Shooting Guard'],6-7,210,Right,,November 18,1983,"New York, New York","November 13, 2005",
+holcora01,['Small Forward'],6-9,225,Left,,August 8,1979,"Chicago, Illois","January 6, 2006",
+hornede01,['Power Forward'],6-9,230,Right,,February 5,1988,"Lwood, New Jersey","December 27, 2011",
+jamesda01,['Small Forward'],6-7,225,Right,,October 7,1987,"Hobbs, New Mexico","October 27, 2010",4
+johnsca01,['Point Guard'],5-10,180,Right,,January 28,1983,"New Orleans, Louisiana","December 26, 2011",
+johnser02,['Center'],6-11,245,Right,,December 21,1967,"New Orleans, Louisiana","November 6, 1993",
+johnstr01,['Shooting Guard'],6-5,218,Right,,August 30,1984,"Jackson, Mississippi","February 3, 2009",3
+karlco01,"['Shooting Guard', 'Small Forward']",6-5,215,Right,,March 6,1983,"Great Falls, Montana","October 30, 2007",
+kennedj01,['Small Forward'],6-6,215,Left,,November 5,1989,"Pittsburgh, Pennsylvania","April 25, 2012",1
+kirkal01,['Center'],7-0,245,Right,,November 14,1991,"Los Alamos, New Mexico","November 4, 2014",1
+lafayol01,['Shooting Guard'],6-2,190,Right,,May 6,1984,"Baton Rouge, Louisiana","April 14, 2010",
+langfke01,['Shooting Guard'],6-4,215,Left,,September 15,1983,"Fort Worth, Texas","December 28, 2007",
+lawalga01,['Power Forward'],6-9,234,Right,,November 7,1988,"College Park, Georgia","December 31, 2010",1
+lucaska01,['Point Guard'],6-1,195,Right,,May 24,1989,"Sterlg Heights, Michigan","November 19, 2014",1
+macijar01,['Shooting Guard'],6-4,214,Right,,January 19,1980,"Klaipeda, Lithuania","November 1, 2005",
+mccarwa01,"['Power Forward', 'Small Forward']",6-10,230,Right,,February 1,1974,"Evansville, Indiana","November 3, 1996",
+mccoyje01,['Center'],6-10,245,Right,,December 6,1977,"Oakland, California","February 9, 1999",
+mcderdo01,['Small Forward'],6-8,225,Right,Chicago Bulls,January 3,1992,"Grand Forks, North Dakota","October 29, 2014",2
+melofa01,['Center'],7-0,255,Right,,June 20,1990,"Juiz de Forz, Brazil","February 1, 2013",1
+milesaa01,['Point Guard'],6-1,175,Right,,April 13,1983,"Portland, Oregon","November 2, 2005",
+moreler01,['Power Forward'],6-10,238,Right,,December 24,1991,"Houston, Texas","November 26, 2014",2
+ndiayha01,['Center'],7-0,235,Right,,January 12,1987,"Dakar, Senegal","October 28, 2010",3
+noguelu01,['Center'],7-0,241,Right,Toronto Raptors,July 26,1992,"Sao Goncalo, Brazil","November 21, 2014",2
+perovko01,['Center'],7-2,240,Right,,February 19,1985,"Osijek, Croatia","January 19, 2008",
+powelka01,['Small Forward'],6-7,215,Right,,March 18,1981,"Teaneck, New Jersey","March 22, 2008",
+russebr01,"['Small Forward', 'Shooting Guard']",6-7,225,Right,,December 31,1970,"San Bernardo, California","November 5, 1993",
+scaleal01,['Shooting Guard'],6-4,185,Right,,July 3,1978,"Race, Wiscons","November 19, 2005",
+seungha01,['Center'],7-3,305,Right,,August 4,1985,"Seoul, Republic of Korea","January 7, 2005",
+simsco01,['Center'],6-10,245,Right,,October 21,1983,"Rosldale, Massachusetts","October 31, 2007",
+singlse01,['Point Guard'],6-0,185,Right,,September 6,1985,"Philadelphia, Pennsylvania","November 4, 2008",
+smithch05,['Point Guard'],6-2,200,Right,,October 13,1987,"Millstone Township, New Jersey","December 25, 2013",1
+smithje01,['Point Guard'],6-2,190,Right,,September 26,1987,"Wauwatosa, Wiscons","March 16, 2012",
+southja01,['Small Forward'],6-8,215,Right,,April 28,1990,"Queens, New York","November 29, 2013",1
+stephdj01,['Shooting Guard'],6-5,188,Right,,December 19,1990,"Killeen, Texas","March 29, 2014",1
+stockda01,['Point Guard'],5-11,165,Right,,June 24,1991,"Spokane, Washgton","February 21, 2015",1
+sypa01,['Small Forward'],6-7,225,Right,,April 5,1988,"Loudeac, France","April 8, 2011",
+taylodo01,['Shooting Guard'],6-6,180,Right,,July 26,1982,"Washgton, District of Columbia","November 9, 2005",
+thomaad01,['Small Forward'],6-7,200,Right,,March 25,1993,"Memphis, Tennessee","March 1, 2014",1
+thomabi01,"['Small Forward', 'Shooting Guard']",6-4,208,Right,,December 23,1975,"Shreveport, Louisiana","January 21, 2005",
+thomajo02,"['Center', 'Power Forward']",6-9,265,Right,,September 8,1975,"Mneapolis, Mnesota","October 31, 1997",
+thomptr02,['Center'],6-10,245,Right,,May 20,1990,"Long Island, New York","December 28, 2011",
+tskitni01,"['Power Forward', 'Small Forward']",7-0,225,Right,,April 14,1983,"Tbilisi, Georgia","October 30, 2002",4
+ubileed01,['Small Forward'],6-6,204,Right,,November 26,1986,"Brooklyn, New York","March 21, 2012",
+wagneda02,['Shooting Guard'],6-2,200,Right,,February 4,1983,"Camden, New Jersey","November 26, 2002",
+walkesa01,"['Power Forward', 'Center']",6-9,240,Right,,February 25,1976,"Columbus, Ohio","November 12, 1996",
+walshma01,['Shooting Guard'],6-6,205,Right,,December 2,1982,"Holland, Pennsylvania","November 2, 2005",
+washida01,['Shooting Guard'],6-2,195,Right,,December 6,1985,"Wter Park, Florida","October 30, 2007",
+wearda01,['Power Forward'],6-10,230,Right,,September 21,1990,"Long Beach, California","March 30, 2015",1
+whalero01,['Center'],6-10,260,Right,,April 16,1982,"Benton Harbor, Michigan","November 14, 2005",
+whitero03,['Power Forward'],6-8,270,Right,,April 10,1991,"Mneapolis, Mnesota","March 21, 2014",1
+wilcocj01,['Shooting Guard'],6-5,195,Right,Orlando Magic,December 30,1990,"Pleasant Grove, Utah","December 3, 2014",2
+willima03,['Point Guard'],6-3,205,Left,,December 3,1985,"Los Angeles, California","November 1, 2006",
+willike02,"['Power Forward', 'Center']",7-0,220,Right,,September 6,1962,"Los Angeles, California","October 26, 1984",
+wrighch02,['Shooting Guard'],6-1,210,Right,,November 4,1989,"Washgton, District of Columbia","March 15, 2013",
+zimmede01,['Point Guard'],6-3,195,Right,,December 2,1981,"Monroe, Louisiana","April 18, 2006",
+bairsca01,"['Power Forward', 'Center']",6-9,250,Right,,December 7,1990,"Brisbane, Australia","October 29, 2014",2
+barrean01,['Point Guard'],5-10,172,Right,,February 21,1982,"Bronx, New York","November 23, 2004",
+bennean01,['Power Forward'],6-8,245,Right,,March 14,1993,"Toronto, Canada","October 30, 2013",3
+blalowi01,['Point Guard'],6-0,205,Right,,September 8,1983,"Boston, Massachusetts","December 16, 2006",
+brunsri01,['Point Guard'],6-4,190,Left,,June 14,1972,"Syracuse, New York","December 2, 1997",
+cabocbr01,['Small Forward'],6-9,218,Right,Toronto Raptors,September 21,1995,"Osasco, Brazil","November 21, 2014",2
+chrispa01,['Shooting Guard'],6-5,209,Right,,June 3,1988,"Compton, California","December 27, 2014",1
+dawkian01,['Shooting Guard'],6-5,215,Right,,September 19,1991,"Fairfax, Virgia","November 1, 2014",1
+dentmju01,['Point Guard'],5-11,185,Right,,September 5,1985,"Carbondale, Illois","March 24, 2012",
+dowdeza01,['Point Guard'],6-3,191,Right,,September 10,1984,"Pahokee, Florida","January 11, 2011",
+dragizo01,['Shooting Guard'],6-5,200,Left,,June 22,1989,"Ljubljana, Slovenia","November 15, 2014",1
+ewingpa02,['Small Forward'],6-8,235,Right,,May 20,1984,"Boston, Massachusetts","March 30, 2011",
+exumda01,['Point Guard'],6-6,190,Right,Utah Jazz,July 13,1995,"Melbourne, Australia","October 29, 2014",1
+footeje01,['Center'],7-0,265,Right,,July 14,1987,"Lockwood, New York","March 9, 2012",
+fraziti01,['Point Guard'],6-1,170,Right,New Orleans Pelicans,November 1,1990,"Houston, Texas","February 6, 2015",2
+freijma01,['Power Forward'],6-10,240,Right,,October 2,1981,"Overland Park, Kansas","November 20, 2004",
+goldwan01,['Point Guard'],6-1,182,Right,,September 6,1971,"West Palm Beach, Florida","January 24, 1996",
+gordodr01,['Power Forward'],6-9,245,Right,,July 12,1990,"San Jose, California","November 13, 2014",1
+greende01,['Shooting Guard'],6-7,210,Right,,October 25,1982,"Columbus, Ohio","November 3, 2005",
+greenta01,"['Shooting Guard', 'Point Guard']",6-0,177,Right,,November 28,1986,"Fort Lauderdale, Florida","November 2, 2007",
+honeyty01,['Small Forward'],6-8,188,Right,,July 15,1990,"Los Angeles, California","December 31, 2011",
+hopsosc01,['Shooting Guard'],6-7,204,Right,,August 8,1989,"Hopksville, Kentucky","April 2, 2014",1
+jerregr01,['Power Forward'],6-10,235,Right,,July 8,1993,"Costa Mesa, California","November 28, 2014",1
+johnsar02,['Point Guard'],6-3,195,Left,,February 23,1989,"Chicago, Illois","October 26, 2010",
+johnsni01,['Shooting Guard'],6-3,202,Right,,December 22,1992,"Tempe, Arizona","November 1, 2014",1
+josepkr01,['Small Forward'],6-7,210,Right,,December 17,1988,"Montreal, Canada","November 2, 2012",1
+korolya01,['Small Forward'],6-9,203,Right,,May 7,1987,"Moscow, Russia","November 4, 2005",
+landrma01,['Small Forward'],6-7,230,Right,,November 1,1985,"Milwaukee, Wiscons","October 28, 2009",1
+lenarvo01,['Shooting Guard'],6-4,205,Right,,May 14,1973,"Detroit, Michigan","January 6, 1996",
+livinra01,['Point Guard'],6-4,209,Right,,April 2,1975,"New Orleans, Louisiana","November 1, 1996",
+machasc01,['Point Guard'],6-1,205,Right,,June 8,1990,"Queens, New York","November 28, 2012",1
+majorre01,['Power Forward'],6-7,200,Right,,May 7,1982,"Chicago, Illois","January 17, 2007",
+marblde01,['Shooting Guard'],6-6,200,Right,,September 21,1992,"Southfield, Michigan","October 28, 2014",2
+mccrach01,['Shooting Guard'],6-5,192,Right,,May 27,1984,"Capitol Heights, Maryland","November 15, 2006",
+mcneaje01,['Point Guard'],6-3,200,Right,,June 1,1987,"Chicago, Illois","April 2, 2015",1
+millequ01,['Power Forward'],6-9,210,Right,,November 18,1992,"Chicago, Illois","December 16, 2012",3
+morrira01,"['Center', 'Power Forward']",6-10,266,Right,,January 2,1986,"Houston, Texas","March 28, 2007",
+morrite01,['Small Forward'],6-9,221,Right,,January 11,1979,"Frederick, Maryland","November 1, 2001",
+murpher01,['Center'],6-10,230,Right,,October 26,1990,"Lyon, France","November 6, 2013",1
+murryto01,"['Point Guard', 'Shooting Guard']",6-5,195,Right,,November 8,1989,"Houston, Texas","November 8, 2013",2
+nunnaja01,['Small Forward'],6-7,205,Right,,July 14,1990,"San Jose, California","January 16, 2014",1
+ohlbrti01,['Center'],6-11,255,Right,,August 30,1988,"Wuppertal, Germany","March 3, 2013",1
+podkopa01,['Center'],7-5,260,Right,,January 15,1985,"Novosibirsk, Russia","March 19, 2005",
+potapvi01,['Center'],6-10,280,Right,,March 21,1975,"Kiev, Ukrae","November 1, 1996",
+powelro01,['Small Forward'],6-6,235,Right,,January 15,1983,"Joliet, Illois","November 14, 2006",
+randlju01,['Power Forward'],6-9,250,Left,Los Angeles Lakers,November 29,1994,"Dallas, Texas","October 28, 2014",2
+reineja01,['Center'],6-11,255,Right,,April 8,1982,"Tripp, South Dakota","November 5, 2004",
+sambch01,['Center'],7-1,245,Right,,October 22,1984,Senegal,"November 16, 2007",
+sharpwa01,['Power Forward'],6-9,245,Right,,July 18,1986,"Huntsville, Alabama","November 3, 2008",
+silasxa01,['Shooting Guard'],6-5,205,Right,,January 22,1988,"San Antonio, Texas","April 25, 2012",1
+smithru01,['Point Guard'],6-0,165,Right,,April 19,1991,"New York, New York","November 4, 2014",2
+smithst03,['Power Forward'],6-8,235,Right,,April 12,1983,"Philadelphia, Pennsylvania","November 21, 2006",
+spanova01,['Shooting Guard'],6-4,195,Right,,August 7,1982,"Larissa, Greece","November 4, 2006",
+summeda01,"['Small Forward', 'Power Forward']",6-8,230,Right,,January 24,1988,"Baltimore, Maryland","November 4, 2009",4
+watkida01,['Center'],6-11,258,Right,,November 8,1984,"Paterson, New Jersey","October 31, 2007",
+willial02,"['Point Guard', 'Shooting Guard']",6-5,185,Right,,August 6,1974,"Philadelphia, Pennsylvania","November 4, 1997",
+willima04,"['Power Forward', 'Small Forward']",6-7,205,Right,,November 18,1986,"Seattle, Washgton","December 26, 2007",2
+yuesu01,['Shooting Guard'],6-9,205,Left,,November 6,1985,"Hebei, Cha","December 7, 2008",
+zellelu01,['Center'],6-11,245,Right,,April 7,1987,"Ames, Iowa","November 4, 2012",
+ackeral01,['Shooting Guard'],6-5,185,Right,,January 21,1983,"Compton, California","February 21, 2006",
+ahearbl01,['Point Guard'],6-2,190,Right,,May 27,1984,"St. Louis, Missouri","March 21, 2008",
+brackcr01,['Power Forward'],6-10,230,Right,,October 9,1987,"Los Angeles, California","November 24, 2010",
+burleke01,['Point Guard'],6-3,205,Right,,April 9,1979,"Seattle, Washgton","November 11, 2005",
+collish01,['Point Guard'],5-11,205,Right,,March 18,1987,"Chicago, Illois","November 3, 2010",
+glynian01,['Center'],7-1,280,Right,,August 21,1981,"Hania, Greece","November 10, 2006",
+harriju01,"['Point Guard', 'Shooting Guard']",6-4,180,Right,,October 2,1980,"Wagram, North Carola","October 30, 2002",
+hitero01,['Shooting Guard'],6-2,184,Left,,January 12,1984,"Ccnati, Ohio","October 31, 2006",
+hobsoda01,['Shooting Guard'],6-7,210,Left,,September 29,1987,"Las Vegas, Nevada","January 7, 2012",
+ilicmi01,['Center'],7-1,230,Right,,June 2,1984,"Tuzla, Bosnia and Herzegova","November 1, 2006",
+jacksce01,['Point Guard'],6-3,191,Right,,March 5,1986,"Alamogordo, New Mexico","January 23, 2010",
+lampema01,['Center'],6-11,275,Right,,February 5,1985,"Lodz, Poland","January 23, 2004",
+markoda01,['Power Forward'],6-10,225,Right,,December 26,1985,"Sarajevo, Bosnia and Herzegova","November 3, 2006",
+moniase01,['Small Forward'],6-8,220,Right,,April 15,1983,"Saratov, Russia","November 5, 2005",
+nichode01,['Small Forward'],6-8,216,Right,,September 4,1984,"Boston, Massachusetts","November 28, 2007",
+rautian01,['Shooting Guard'],6-4,190,Right,,November 2,1986,"Syracuse, New York","November 9, 2010",
+ricegl02,['Shooting Guard'],6-6,206,Right,,January 1,1991,"Miami, Florida","November 12, 2013",2
+shengto01,['Small Forward'],6-9,217,Right,,October 5,1991,"Tbilisi, Georgia","November 7, 2012",2
+sivape01,['Shooting Guard'],6-0,185,Right,,October 24,1990,"Seattle, Washgton","October 30, 2013",1
+strawdj01,['Shooting Guard'],6-5,201,Right,,June 15,1985,"New York, New York","November 2, 2007",
+thompmy02,['Shooting Guard'],6-6,211,Right,,June 1,1988,"Los Angeles, California","January 4, 2012",
+ukicro01,['Point Guard'],6-5,183,Right,,May 12,1984,"Split, Croatia","October 29, 2008",
+willite01,"['Shooting Guard', 'Small Forward']",6-6,220,Right,,June 28,1987,"Seattle, Washgton","October 28, 2009",
+blueva01,['Shooting Guard'],6-4,200,Right,,July 17,1992,"Milwaukee, Wiscons","January 22, 2014",2
+bozemce01,['Shooting Guard'],6-6,207,Right,,March 7,1983,"Los Angeles, California","November 1, 2006",
+ennisty01,['Point Guard'],6-3,194,Right,Houston Rockets,August 24,1994,"Brampton, Canada","October 29, 2014",2
+felixno01,['Small Forward'],6-9,225,Right,,October 4,1981,"Los Angeles, California","March 5, 2006",
+harpeju01,['Power Forward'],6-10,225,Right,,August 30,1989,"Richmond, Virgia","December 26, 2011",2
+jacobca01,"['Small Forward', 'Shooting Guard']",6-6,215,Right,,March 19,1981,"Glendora, California","October 30, 2002",
+johnsda03,['Shooting Guard'],6-2,215,Left,,September 28,1989,"Raleigh, North Carola","November 9, 2012",2
+morrida01,['Point Guard'],6-4,190,Right,,January 3,1991,"Los Angeles, California","January 11, 2012",4
+murphke01,['Shooting Guard'],6-5,185,Right,,March 6,1990,"Atlanta, Georgia","October 31, 2012",1
+nelsode01,['Point Guard'],6-4,200,Right,,November 2,1985,"Oakland, California","October 29, 2008",
+richaje01,"['Small Forward', 'Shooting Guard']",6-6,185,Right,,February 11,1984,"Allentown, Pennsylvania","January 31, 2007",
+rosema01,"['Power Forward', 'Small Forward']",6-7,250,Right,,November 23,1974,"Philadelphia, Pennsylvania","November 2, 1996",
+waynsma01,['Point Guard'],6-2,200,Right,,May 2,1991,"Philadelphia, Pennsylvania","October 31, 2012",2
+weartr01,['Small Forward'],6-10,230,Right,,September 21,1990,"Long Beach, California","October 29, 2014",1
+burksan01,['Point Guard'],6-1,200,Right,,February 25,1980,"Memphis, Tennessee","December 7, 2004",
+conrowi01,"['Point Guard', 'Shooting Guard']",6-2,195,Right,,December 8,1982,"Portland, Oregon","January 31, 2007",
+drewla02,['Point Guard'],6-2,180,Right,,March 5,1990,"Los Angeles, California","January 16, 2015",1
+earlycl01,['Small Forward'],6-8,210,Right,,April 17,1991,"Middletown, New York","October 29, 2014",2
+eyengch01,['Small Forward'],6-5,210,Right,,June 22,1989,"Kshasa, Democratic Republic of the Congo","January 2, 2011",
+gardnth01,['Shooting Guard'],6-5,225,Right,,February 8,1985,"Portland, Oregon","November 15, 2007",
+nedovne01,['Shooting Guard'],6-3,192,Right,,June 16,1991,"Nova Varos, Serbia","October 30, 2013",1
+russewa02,['Point Guard'],6-0,170,Right,,October 6,1982,"Pontiac, Michigan","January 20, 2012",
+taylomi01,['Point Guard'],6-2,165,Right,,January 21,1986,"Chicago, Illois","October 29, 2008",
+milesda01,['Small Forward'],6-9,210,Right,,October 9,1981,"Belleville, Illois","October 31, 2000",
+obryajo01,['Power Forward'],6-9,257,Right,Denver Nuggets,June 1,1993,"Cleveland, Mississippi","December 17, 2014",2
+paynead01,['Power Forward'],6-10,237,Right,Minnesota Timberwolves,February 19,1991,"Dayton, Ohio","December 26, 2014",2
+shakumu01,['Point Guard'],6-3,190,Right,,August 18,1984,"Philadelphia, Pennsylvania","January 22, 2011",2
+wroteto01,"['Point Guard', 'Shooting Guard']",6-6,205,Left,,April 13,1993,"Seattle, Washgton","November 7, 2012",4
+barroea01,['Center'],7-0,250,Right,,August 14,1981,"Clarksdale, Mississippi","November 2, 2005",8
+harrite01,['Shooting Guard'],6-5,190,Right,,August 10,1987,"Dallas, Texas","December 25, 2011",2
+ledori01,['Shooting Guard'],6-7,195,Right,,September 10,1992,"Providence, Rhode Island","November 1, 2013",2
+tayloma01,"['Power Forward', 'Small Forward', 'Center']",6-9,260,Right,,October 30,1976,"Detroit, Michigan","October 31, 1997",
+araujra01,['Center'],6-11,280,Right,,August 12,1980,"Curitiba, Brazil","November 3, 2004",
+greenor01,"['Shooting Guard', 'Point Guard']",6-4,208,Right,,February 4,1982,"Gaesville, Florida","November 2, 2005",
+harriga01,['Shooting Guard'],6-4,210,Right,Denver Nuggets,September 14,1994,"Fishers, Indiana","November 14, 2014",2
+jamesje01,['Center'],7-0,300,Right,,November 17,1975,"Tampa, Florida","February 5, 1999",
+lavinza01,"['Shooting Guard', 'Point Guard']",6-5,189,Right,Minnesota Timberwolves,March 10,1995,"Renton, Washgton","October 30, 2014",2
+mekelga01,['Point Guard'],6-3,191,Right,,March 4,1988,"Petah Tikva, Israel","October 30, 2013",2
+selbyjo01,['Point Guard'],6-2,183,Right,,March 27,1991,"Baltimore, Maryland","December 28, 2011",
+jacksji01,"['Small Forward', 'Shooting Guard']",6-6,220,Right,,October 14,1970,"Toledo, Ohio","March 5, 1993",
+pargoje01,"['Point Guard', 'Shooting Guard']",6-2,219,Right,,March 17,1986,"Chicago, Illois","December 26, 2011",
+smithno01,['Point Guard'],6-2,185,Right,,July 25,1988,"Louisville, Kentucky","December 26, 2011",2
+teaguma01,"['Shooting Guard', 'Point Guard']",6-2,189,Right,,February 28,1993,"Indianapolis, Indiana","November 2, 2012",2
+agerma01,['Shooting Guard'],6-5,202,Right,,February 9,1984,"Detroit, Michigan","November 4, 2006",
+tayloty01,['Point Guard'],6-3,185,Right,,April 12,1990,"Hoboken, New Jersey","November 5, 2012",2
+garredi02,['Point Guard'],6-4,190,Right,,November 3,1988,"Milwaukee, Wiscons","November 5, 2012",2
+brownbo02,"['Point Guard', 'Shooting Guard']",6-2,175,Right,Houston Rockets,September 24,1984,"Los Angeles, California","October 31, 2008",2
+flynnjo01,['Point Guard'],6-0,185,Right,,February 6,1989,"Niagara Falls, New York","October 28, 2009",
+higgico01,"['Shooting Guard', 'Point Guard']",6-5,180,Right,,June 14,1989,"Danville, California","January 1, 2012",
+morriad01,"['Small Forward', 'Power Forward']",6-8,205,Right,,July 19,1984,"Glendive, Montana","November 1, 2006",
+collima01,"['Shooting Guard', 'Point Guard', 'Small Forward']",6-6,220,Right,,August 4,1984,"Philadelphia, Pennsylvania","November 1, 2006",
