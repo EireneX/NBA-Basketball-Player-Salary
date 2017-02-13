@@ -8,8 +8,8 @@ connection = sqlite3.connect('ETL/NBA_salary_analysis.db')
 
 # set up constants
 player_stats = "player_stats"
-col_names_raw = ["player_id","Season","G",'GS','MP','FG','FGA','FG%','3P','3PA','3P%','2P','2PA','2P%','FT','FTA','FT%','ORB','DRB','TRB','AST','STL','BLK','TOV','PF','PTS']
-col_types = ['text', 'text','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real']
+col_names_raw = ["player_id","Season","Tm","G",'GS','MP','FG','FGA','FG%','3P','3PA','3P%','2P','2PA','2P%','FT','FTA','FT%','ORB','DRB','TRB','AST','STL','BLK','TOV','PF','PTS']
+col_types = ['text', 'text','text','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real','real']
 col_names = ['"' + col_names_raw[i] +'"' for i in range(0,len(col_names_raw))]
 print col_names
 
@@ -18,7 +18,7 @@ temp_list = []
 for i in range(0, len(col_names)):
     temp_list.append(col_names[i] + ' ' + col_types[i])
 print temp_list
-query = '''create table {0} ({1}, PRIMARY KEY (player_id, Season))'''
+query = '''create table {0} ({1}, PRIMARY KEY (player_id, Season, Tm))'''
 query = query.format(player_stats, ','.join(temp_list))
 print query
 connection.execute(query)
