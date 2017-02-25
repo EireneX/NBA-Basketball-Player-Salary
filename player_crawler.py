@@ -1,5 +1,4 @@
 import time
-from bs4 import BeautifulSoup
 # python 3
 # from urllib.request import urlopen
 # python 2
