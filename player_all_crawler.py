@@ -36,7 +36,9 @@ for i in range(0, cnt, 100):
     url_100player = u + "&offset=" + str(i)
     print(url_100player)
     r = urlopen(url_100player).read()
+    # python 3
     # soup = BeautifulSoup(r, "lxml")
+    # python 2
     soup = BeautifulSoup(r, "html.parser")
     player100 = html_parser(soup)
 
