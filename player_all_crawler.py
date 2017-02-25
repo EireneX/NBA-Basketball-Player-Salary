@@ -1,6 +1,7 @@
 import time
 from bs4 import BeautifulSoup
-from urllib.request import urlopen
+# from urllib.request import urlopen
+from urllib2 import urlopen
 import json, os, csv
 
 def html_parser(html):
@@ -33,7 +34,8 @@ for i in range(0, cnt, 100):
     url_100player = u + "&offset=" + str(i)
     print(url_100player)
     r = urlopen(url_100player).read()
-    soup = BeautifulSoup(r, "lxml")
+    # soup = BeautifulSoup(r, "lxml")
+    soup = BeautifulSoup(r, "html.parser")
     player100 = html_parser(soup)
 
     if player100 is None:
@@ -45,7 +47,7 @@ for i in range(0, cnt, 100):
         with open("data/player_results" + str(i + len(player100)) + ".html", "wb+") as f:
             f.write(r)
 
-    # time.sleep(0.1)
+    # time.sleep(1)
 
 print("Last 3 players are:")
 print(player_list[::-1][:3][::-1])
@@ -55,7 +57,8 @@ with open("data/player_list.json", "w+") as f:
     json.dump(player_list, f)
 
 print("Writing results to player_list.csv")
-with open("data/player_list.csv", "w+", newline='') as f:
+# with open("data/player_list.csv", "w+", newline='') as f:
+with open("data/player_list.csv", "wb") as f:
     writer = csv.writer(f, delimiter=",")
     writer.writerow(["id", "name", "name-display", "href"])
     for p in player_list:
