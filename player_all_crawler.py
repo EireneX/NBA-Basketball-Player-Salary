@@ -1,6 +1,8 @@
 import time
 from bs4 import BeautifulSoup
+# python 3
 # from urllib.request import urlopen
+# python 2
 from urllib2 import urlopen
 import json, os, csv
 
@@ -57,7 +59,9 @@ with open("data/player_list.json", "w+") as f:
     json.dump(player_list, f)
 
 print("Writing results to player_list.csv")
+# python 3
 # with open("data/player_list.csv", "w+", newline='') as f:
+# python 2
 with open("data/player_list.csv", "wb") as f:
     writer = csv.writer(f, delimiter=",")
     writer.writerow(["id", "name", "name-display", "href"])
