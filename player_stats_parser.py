@@ -1,13 +1,19 @@
-import time
+# -*- coding: utf-8 -*-
 from bs4 import BeautifulSoup, Comment
-from urllib.request import urlopen
+# from urllib.request import urlopen
+# python 2
+from urllib2 import urlopen
 import json, os.path, csv, re
+
 
 def valid_filename(filename):
     return re.sub('[^\w\-_\. ]', '_', filename)
 
-def parse_player_common(player_no, player_id, tables):
-    pass
+
+def norm_txt(txt):
+    # removing non-ascii
+    return re.sub(r'[^\x00-\x7F]+',' ', txt)
+
 
 def parse_player_stats(player_no, player_id):
     for stats_id, table in tables_stats.items():
@@ -17,21 +23,24 @@ def parse_player_stats(player_no, player_id):
 
         if not os.path.isdir(folder_path):
             os.makedirs(folder_path)
-
-        with open(folder_path+valid_filename(player_no+"_"+player_id+"_"+stats_id+".csv"), "w+", newline="") as f:
+        # python 3
+        # with open(folder_path+valid_filename(player_no+"_"+player_id+"_"+stats_id+".csv"), "w+", newline="") as f:
+        with open(folder_path + valid_filename(player_no + "_" + player_id + "_" + stats_id + ".csv"), "wb") as f:
             writer = csv.writer(f, delimiter=",")
             # write header
-            writer.writerow([th.text for th in thead.find_all("tr")[-1].find_all("th")])
+            writer.writerow([norm_txt(th.text) for th in thead.find_all("tr")[-1].find_all("th")])
             # write stats
             tbody = table.find_all("tbody")[0]
             for tr in tbody.find_all("tr"):
-                writer.writerow([ele.text for ele in tr.find_all(["th", "td"])])
+                writer.writerow([norm_txt(ele.text) for ele in tr.find_all(["th", "td"])])
 
         # write stats summary
-        with open(folder_path+valid_filename(player_no+"_"+ player_id+"_"+stats_id+"_summary.csv"), "w+", newline="") as f:
+        # python 3
+        # with open(folder_path+valid_filename(player_no+"_"+ player_id+"_"+stats_id+"_summary.csv"), "w+", newline="") as f:
+        with open(folder_path + valid_filename(player_no + "_" + player_id + "_" + stats_id + "_summary.csv"), "wb") as f:
             writer = csv.writer(f, delimiter=",")
             # write header
-            writer.writerow([th.text for th in thead.find_all("tr")[-1].find_all("th")])
+            writer.writerow([norm_txt(th.text) for th in thead.find_all("tr")[-1].find_all("th")])
             # write stats summary
             tfoot = table.find_all("tfoot")
             if len(tfoot) >0 : tfoot = tfoot[0]
@@ -47,7 +56,10 @@ def parse_player_leaderboard(player_no, player_id):
         print("Saving player " + player_id + "'s leaderboard stats: " + leaderboard_type)
         folder_path = "data/player_stats/" + player_no + "_" + player_id + "/"
 
-        with open(folder_path+valid_filename(player_no+"_"+player_id+"_"+leaderboard_type+".csv"), "w+", newline="") as f:
+        # python 3
+        # with open(folder_path+valid_filename(player_no+"_"+player_id+"_"+leaderboard_type+".csv"), "w+", newline="") as f:
+        # python 2
+        with open(folder_path + valid_filename(player_no + "_" + player_id + "_" + leaderboard_type + ".csv"), "wb") as f:
             writer = csv.writer(f, delimiter=",")
             # write header
             writer.writerow([leaderboard_type])
@@ -66,20 +78,24 @@ def parse_player_salary(player_no, player_id):
         if not os.path.isdir(folder_path):
             os.makedirs(folder_path)
 
-        with open(folder_path+valid_filename(player_no+"_"+player_id+"_"+stats_id+".csv"), "w+", newline="") as f:
+        # python 3
+        # with open(folder_path+valid_filename(player_no+"_"+player_id+"_"+stats_id+".csv"), "w+", newline="") as f:
+        with open(folder_path + valid_filename(player_no + "_" + player_id + "_" + stats_id + ".csv"), "wb") as f:
             writer = csv.writer(f, delimiter=",")
             # write header
-            writer.writerow([th.text for th in thead.find_all("tr")[-1].find_all("th")])
+            writer.writerow([norm_txt(th.text) for th in thead.find_all("tr")[-1].find_all("th")])
             # write stats
             tbody = table.find_all("tbody")[0]
             for tr in tbody.find_all("tr"):
-                writer.writerow([ele.text for ele in tr.find_all(["th", "td"])])
+                writer.writerow([norm_txt(ele.text) for ele in tr.find_all(["th", "td"])])
 
         # write stats summary
-        with open(folder_path+valid_filename(player_no+"_"+ player_id+"_"+stats_id+"_summary.csv"), "w+", newline="") as f:
+        # python 3
+        # with open(folder_path+valid_filename(player_no+"_"+ player_id+"_"+stats_id+"_summary.csv"), "w+", newline="") as f:
+        with open(folder_path + valid_filename(player_no + "_" + player_id + "_" + stats_id + "_summary.csv"), "wb") as f:
             writer = csv.writer(f, delimiter=",")
             # write header
-            writer.writerow([th.text for th in thead.find_all("tr")[-1].find_all("th")])
+            writer.writerow([norm_txt(th.text) for th in thead.find_all("tr")[-1].find_all("th")])
             # write stats summary
             tfoot = table.find_all("tfoot")
             if len(tfoot) >0 : tfoot = tfoot[0]
@@ -87,7 +103,7 @@ def parse_player_salary(player_no, player_id):
             for tr in tfoot.find_all("tr"):
                 if tr.get("class") is not None and 'blank_table' in tr.get("class"):
                     continue
-                writer.writerow([ele.text for ele in tr.find_all(["th", "td"])])
+                writer.writerow([norm_txt(ele.text) for ele in tr.find_all(["th", "td"])])
 
 
 # read all player information
@@ -111,7 +127,10 @@ for index, player in enumerate(players):
     player_id = player["id"]
     player_no = zero_pad(str(index+1))
     r = open("data/players/"+player_no+"_"+player_id+".html", "rb+").read()
-    soup = BeautifulSoup(r, "lxml")
+    # python 3
+    # soup = BeautifulSoup(r, "lxml")
+    # python 2
+    soup = BeautifulSoup(r, "html.parser")
 
     tables_all = []
 
@@ -122,7 +141,10 @@ for index, player in enumerate(players):
     # Extract all tables in comments
     comments = soup.find_all(string=lambda text: isinstance(text, Comment))
     for c in comments:
-        soup_comment = BeautifulSoup(c, 'lxml')
+        # python 3
+        # soup_comment = BeautifulSoup(c, 'lxml')
+        # python 2
+        soup_comment = BeautifulSoup(c, "html.parser")
         tables = soup_comment.find_all('table')
         tables_all = tables_all + tables
 
