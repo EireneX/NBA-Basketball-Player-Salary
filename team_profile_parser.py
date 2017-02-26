@@ -9,9 +9,8 @@ def valid_filename(filename):
     return re.sub('[^\w\-_\. ]', '_', filename)
 
 def norm_txt(txt):
-    # return txt
-    return re.sub('[\n,:▪]', '', txt).replace('\xa0', " ").strip()
-    return re.sub(r'[^\w, ]', '', txt)
+    # removing non-ascii
+    return re.sub(r'[^\x00-\x7F]+',' ', txt)
 
 # read all team information
 with open("data/team_list.csv", "r+") as f:
