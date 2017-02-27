@@ -1,0 +1,35 @@
+
+	Hausman Test
+
+data:  Salary ~ FGA + two_P_ptg + three_P_ptg + PF + PTS + TRB + TOV
+chisq = 26.647, df = 7, p-value = 0.0003857
+alternative hypothesis: one model is inconsistent
+
+
+	Hausman Test
+
+data:  Salary ~ FGA + two_P_ptg + three_P_ptg + PF + PTS + TRB + TOV
+chisq = 34.208, df = 7, p-value = 1.575e-05
+alternative hypothesis: one model is inconsistent
+
+
+	Hausman Test
+
+data:  Salary ~ FGA + two_P_ptg + three_P_ptg + PF + PTS + AST + TOV
+chisq = 50.7, df = 7, p-value = 1.052e-08
+alternative hypothesis: one model is inconsistent
+
+
+	Hausman Test
+
+data:  Salary ~ FGA + two_P_ptg + three_P_ptg + PF + PTS + TOV
+chisq = 60.436, df = 6, p-value = 3.671e-11
+alternative hypothesis: one model is inconsistent
+
+
+	Hausman Test
+
+data:  Salary ~ FGA + two_P_ptg + three_P_ptg + PF + PTS + TOV
+chisq = 61.755, df = 6, p-value = 1.979e-11
+alternative hypothesis: one model is inconsistent
+

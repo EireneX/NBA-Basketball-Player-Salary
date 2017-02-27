@@ -1,0 +1,31 @@
+These series are constants and have been removed: Lg, Pos
+Oneway (individual) effect Within Model
+
+Call:
+plm(formula = Salary ~ FGA + two_P_ptg + three_P_ptg + PF + PTS + 
+    TRB + TOV, data = grouped_data[[1]], model = "within", index = c("player_id", 
+    "season"))
+
+Unbalanced Panel: n=177, T=1-9, N=495
+
+Residuals :
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-12400000  -1020000         0         0   1350000   9550000 
+
+Coefficients :
+            Estimate Std. Error t-value  Pr(>|t|)    
+FGA           866682     277661  3.1214  0.001969 ** 
+two_P_ptg    4346414    5926925  0.7333  0.463907    
+three_P_ptg  2182940     919426  2.3742  0.018192 *  
+PF          -1186745     279826 -4.2410 2.938e-05 ***
+PTS          -294511     227538 -1.2943  0.196508    
+TRB            29828     188480  0.1583  0.874359    
+TOV          -377077     528830 -0.7130  0.476356    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Total Sum of Squares:    4.167e+15
+Residual Sum of Squares: 3.5094e+15
+R-Squared:      0.15782
+Adj. R-Squared: -0.33774
+F-statistic: 8.32577 on 7 and 311 DF, p-value: 2.5289e-09
