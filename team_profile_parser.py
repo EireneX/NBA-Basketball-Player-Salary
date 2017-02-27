@@ -1,15 +1,16 @@
-import time
+# -*- coding: utf-8 -*-
 from bs4 import BeautifulSoup, Comment
-from urllib.request import urlopen
-import json, os.path, csv, re
+# from urllib.request import urlopen
+# python 2
+from urllib2 import urlopen
+import csv, re
 
 def valid_filename(filename):
     return re.sub('[^\w\-_\. ]', '_', filename)
 
 def norm_txt(txt):
-    # return txt
-    return re.sub('[\n,:▪]', '', txt).replace('\xa0', " ").strip()
-    return re.sub(r'[^\w, ]', '', txt)
+    # removing non-ascii
+    return re.sub(r'[^\x00-\x7F]+',' ', txt)
 
 # read all team information
 with open("data/team_list.csv", "r+") as f:
@@ -25,8 +26,10 @@ def regex_match(pattern, text_compare):
 
 profile_keys = ["team_name", "location", "team_names", "seasons", "seasons_start", "seasons_end", "record", "playoff_appearances",
                  "championships"]
-
-with open("data/team_profiles.csv", "w+", newline="") as f:
+# python 3
+# with open("data/team_profiles.csv", "w+", newline="") as f:
+# python 2
+with open("data/team_profiles.csv", "wb") as f:
     writer = csv.writer(f, delimiter=",")
     writer.writerow(profile_keys)
 
@@ -34,8 +37,10 @@ with open("data/team_profiles.csv", "w+", newline="") as f:
     for team_name, team_href in teams.items():
 
         r = open("data/teams/"+team_name+".html", "rb+").read()
-        soup = BeautifulSoup(r, "lxml")
-
+        # python 3
+        # soup = BeautifulSoup(r, "lxml")
+        # python 2
+        soup = BeautifulSoup(r, "html.parser")
         profile_dict = {}
 
         # Regex patterns for team info

@@ -1,9 +1,28 @@
 import time
 from bs4 import BeautifulSoup
-from urllib.request import urlopen
-import json, os, csv
+# python 3
+# from urllib.request import urlopen
+# python 2
+from urllib2 import urlopen
+import json, os, csv, re
 
-def html_parser(html):
+
+def regex_match_list(pattern, text_compare):
+    try:
+        match_list = re.findall(pattern, text_compare.replace('\n', ' '))
+        return match_list
+    except IndexError:
+        return []
+
+def regex_match(pattern, text_compare):
+    try:
+        return re.findall(pattern, text_compare.replace('\n', ' '))[0].strip()
+    except IndexError:
+        return ""
+
+
+def html_parser(rhtml):
+    html = BeautifulSoup(rhtml, "html.parser")
     tables = html.find_all("table")
     if (len(tables) > 0):
         table = html.find_all("table")[0]
@@ -16,6 +35,25 @@ def html_parser(html):
     else:
         return None
 
+def html_parser_regex(rhtml):
+    TABLE_PATTERN = u'(<table.*<\/table>)'
+    TD_PATTERN = u'(<td[^<]+data-stat="player".*?>[^<]+<\/td>)'
+    ID_PATTERN = u'data-append-csv=\"([^\s]+)\"'
+    NAME_PATTERN = u'csk=\"([^>]+)\"'
+    NAMEDISP_PATTERN = u'<a.*>(.*)<\/a>'
+    HREF_PATTERN = u'href=\"([^>]+)\"'
+    # find number of tables
+    tables = regex_match_list(TABLE_PATTERN, rhtml)
+    if len(tables) > 0:
+        table = tables[0]
+        player_list = [{"id": regex_match(ID_PATTERN ,td),
+                        "name": regex_match(NAME_PATTERN, td),
+                        "name-display": regex_match(NAMEDISP_PATTERN, td),
+                        "href": base_url + regex_match(HREF_PATTERN, td)}
+                       for td in regex_match_list(TD_PATTERN, table)]
+        return player_list
+    else:
+        return None
 
 base_url = "http://www.basketball-reference.com"
 u = "http://www.basketball-reference.com/play-index/" \
@@ -33,8 +71,16 @@ for i in range(0, cnt, 100):
     url_100player = u + "&offset=" + str(i)
     print(url_100player)
     r = urlopen(url_100player).read()
-    soup = BeautifulSoup(r, "lxml")
-    player100 = html_parser(soup)
+    # python 3
+    # soup = BeautifulSoup(r, "lxml")
+    # python 2
+    parse_option = int(input("Selet your parsing option: 1) bs4 2) regex "))
+    if parse_option == 1:
+        soup = BeautifulSoup(r, "html.parser")
+        player100 = html_parser(soup)
+
+    elif parse_option == 2:
+        player100 = html_parser_regex(r)
 
     if player100 is None:
         print(">>> END OF THE LIST")
@@ -45,7 +91,8 @@ for i in range(0, cnt, 100):
         with open("data/player_results" + str(i + len(player100)) + ".html", "wb+") as f:
             f.write(r)
 
-    # time.sleep(0.1)
+    # time.sleep(1)
+    break
 
 print("Last 3 players are:")
 print(player_list[::-1][:3][::-1])
@@ -55,7 +102,10 @@ with open("data/player_list.json", "w+") as f:
     json.dump(player_list, f)
 
 print("Writing results to player_list.csv")
-with open("data/player_list.csv", "w+", newline='') as f:
+# python 3
+# with open("data/player_list.csv", "w+", newline='') as f:
+# python 2
+with open("data/player_list.csv", "wb") as f:
     writer = csv.writer(f, delimiter=",")
     writer.writerow(["id", "name", "name-display", "href"])
     for p in player_list:
