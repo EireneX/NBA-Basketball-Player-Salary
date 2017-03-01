@@ -17,6 +17,7 @@ PFdataA <- PFdata[,c("FGptg","PTS","GS")]
 SGdataA <- SGdata[,c("FGptg","X3Pptg","PTS","GS")]
 SFdataA <- SFdata[,c("FGptg","PF","PTS","GS")]
 
+# List of data table and name
 total = list(PGdataA,CdataA,PFdataA,SGdataA,SFdataA)
 Name = list('PG','C','PF','SG','SF')
 # Plot 
@@ -32,7 +33,6 @@ for (j in 1:5){
 }
 
 # Test for different random center
-#first result
 print(c("Pos",c(1:10)))
 for(j in 1:5){
   set.seed(11)
@@ -48,9 +48,8 @@ for(j in 1:5){
 }
 
 #interrelated with salary
-
-#for(k in 1:5){
-  dataset = total[[4]]
+for(k in 1:5){
+  dataset = total[[k]]
   km <- kmeans(dataset,centers=5)$cluster
   IdCluster <- data.frame(id = as.numeric(names(km)), cluster = km)
   DataId <- cbind(dataset,as.numeric(rownames(dataset)))
@@ -59,7 +58,7 @@ for(j in 1:5){
   Final <- merge(IdSalary,IdCluster,"id")
   Final <- Final[,c("cluster","Salary")]
   ggplot(data=Final,aes(x=cluster,y=Salary)) + geom_point()
-#}
+}
 
   
 
