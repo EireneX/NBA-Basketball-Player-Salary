@@ -20,29 +20,34 @@ Project Structure
 
 ## This folder contains Panel Data Analysis source code & data for part 3.3
 -- Panel_Data_Analysis
-  -- R_Analysis.Rproj
-  -- pos_PG_final.txt
+  -- R_Analysis.Rproj               # R project for Panel Data Analysis
+  -- salaries_stats.RData           # R data used in this analysis
+  -- salary_panel_data_analysis.R   # R analysis script
+  -- hausman_tests.txt              # results
+  -- pos_PG_final.txt               # ...
+  -- pos_SF_final.txt               # ...
+  -- pos_SG_final.txt               # ...
+  -- pos_C_final.txt                # ...
+  -- pos_PF_final.txt               # ...
   -- Salary_vs_Postions.png
-  -- pos_SF_final.txt
   -- Salary_vs_Seasons.png
-  -- pos_SG_final.txt
-  -- hausman_tests.txt
-  -- salaries_stats.RData
-  -- os_C_final.txt
-  -- salary_panel_data_analysis.R
-  -- pos_PF_final.txt
 
--- README.txt           # this README file
+## this README file
+-- README.txt           
 
-# This folder contains all the data crawled and parsed in Part 1
+## This folder contains all the data crawled and parsed in Part 1
 -- data/
-  -- players/           # player html files
-  -- player_stats/      # player statistics csv files
-  -- teams/             # team html files
-  -- team_stats/        # team statistics csv files
-  ...
+  -- players/              # player html files
+  -- player_stats/         # player statistics csv files
+  -- teams/                # team html files
+  -- team_stats/           # team statistics csv files
+  -- player_profiles.csv   # all players' profile in 1 csv file
+  -- team_profiles.csv     # all teams' profile in 1 csv file
+  -- player_list.csv       # list of players
+  -- team_list.csv         # list of teams
+  -- stats_glossary.csv    # statistics glossary
 
-# These Python scripts are used to perform ETL for database creation
+## These Python scripts are used to perform ETL for database creation
 -- etl_player_salary.py
 -- etl_player_stats.py
 -- etl_team_names.py
